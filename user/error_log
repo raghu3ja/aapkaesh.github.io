@@ -1,0 +1,676 @@
+[03-Dec-2022 12:38:09 Asia/Kolkata] PHP Notice:  Undefined index: name in /home/aapkaesh/public_html/shopkeeper/include/__header.php on line 17
+[03-Dec-2022 12:38:09 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/aapkaesh/public_html/shopkeeper/manage_products.php on line 115
+[03-Dec-2022 12:38:14 Asia/Kolkata] PHP Notice:  Undefined index: name in /home/aapkaesh/public_html/shopkeeper/include/__header.php on line 17
+[03-Dec-2022 12:38:14 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/aapkaesh/public_html/shopkeeper/manage_products.php on line 115
+[03-Dec-2022 12:38:38 Asia/Kolkata] PHP Notice:  Undefined index: name in /home/aapkaesh/public_html/shopkeeper/include/__header.php on line 17
+[03-Dec-2022 12:38:38 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/aapkaesh/public_html/shopkeeper/manage_products.php on line 115
+[04-Dec-2022 09:03:58 Asia/Kolkata] PHP Notice:  Undefined index: created_date in /home/aapkaesh/public_html/shopkeeper/manage_products.php on line 126
+[04-Dec-2022 09:03:58 Asia/Kolkata] PHP Notice:  Undefined index: created_date in /home/aapkaesh/public_html/shopkeeper/manage_products.php on line 126
+[04-Dec-2022 09:03:58 Asia/Kolkata] PHP Notice:  Undefined index: created_date in /home/aapkaesh/public_html/shopkeeper/manage_products.php on line 126
+[04-Dec-2022 09:03:58 Asia/Kolkata] PHP Notice:  Undefined index: created_date in /home/aapkaesh/public_html/shopkeeper/manage_products.php on line 126
+[04-Dec-2022 09:03:58 Asia/Kolkata] PHP Notice:  Undefined index: created_date in /home/aapkaesh/public_html/shopkeeper/manage_products.php on line 126
+[04-Dec-2022 09:04:42 Asia/Kolkata] PHP Notice:  Undefined index: created_date in /home/aapkaesh/public_html/shopkeeper/manage_products.php on line 126
+[04-Dec-2022 09:04:42 Asia/Kolkata] PHP Notice:  Undefined index: created_date in /home/aapkaesh/public_html/shopkeeper/manage_products.php on line 126
+[04-Dec-2022 09:04:42 Asia/Kolkata] PHP Notice:  Undefined index: created_date in /home/aapkaesh/public_html/shopkeeper/manage_products.php on line 126
+[04-Dec-2022 09:04:42 Asia/Kolkata] PHP Notice:  Undefined index: created_date in /home/aapkaesh/public_html/shopkeeper/manage_products.php on line 126
+[04-Dec-2022 09:04:42 Asia/Kolkata] PHP Notice:  Undefined index: created_date in /home/aapkaesh/public_html/shopkeeper/manage_products.php on line 126
+[04-Dec-2022 09:06:49 Asia/Kolkata] PHP Notice:  Undefined index: created_date in /home/aapkaesh/public_html/shopkeeper/manage_products.php on line 126
+[04-Dec-2022 09:06:49 Asia/Kolkata] PHP Notice:  Undefined index: created_date in /home/aapkaesh/public_html/shopkeeper/manage_products.php on line 126
+[04-Dec-2022 09:06:49 Asia/Kolkata] PHP Notice:  Undefined index: created_date in /home/aapkaesh/public_html/shopkeeper/manage_products.php on line 126
+[04-Dec-2022 09:06:49 Asia/Kolkata] PHP Notice:  Undefined index: created_date in /home/aapkaesh/public_html/shopkeeper/manage_products.php on line 126
+[04-Dec-2022 09:06:49 Asia/Kolkata] PHP Notice:  Undefined index: created_date in /home/aapkaesh/public_html/shopkeeper/manage_products.php on line 126
+[04-Dec-2022 09:16:53 Asia/Kolkata] PHP Notice:  Undefined index: created_date in /home/aapkaesh/public_html/shopkeeper/manage_products.php on line 126
+[04-Dec-2022 09:16:53 Asia/Kolkata] PHP Notice:  Undefined index: created_date in /home/aapkaesh/public_html/shopkeeper/manage_products.php on line 126
+[04-Dec-2022 09:16:53 Asia/Kolkata] PHP Notice:  Undefined index: created_date in /home/aapkaesh/public_html/shopkeeper/manage_products.php on line 126
+[04-Dec-2022 09:16:53 Asia/Kolkata] PHP Notice:  Undefined index: created_date in /home/aapkaesh/public_html/shopkeeper/manage_products.php on line 126
+[04-Dec-2022 09:16:53 Asia/Kolkata] PHP Notice:  Undefined index: created_date in /home/aapkaesh/public_html/shopkeeper/manage_products.php on line 126
+[04-Dec-2022 03:46:59 UTC] PHP Notice:  Undefined index: date_added in /home/aapkaesh/public_html/shopkeeper/orders.php on line 99
+[04-Dec-2022 03:46:59 UTC] PHP Notice:  Undefined index: date_added in /home/aapkaesh/public_html/shopkeeper/orders.php on line 99
+[04-Dec-2022 03:46:59 UTC] PHP Notice:  Undefined index: date_added in /home/aapkaesh/public_html/shopkeeper/orders.php on line 99
+[04-Dec-2022 03:46:59 UTC] PHP Notice:  Undefined index: date_added in /home/aapkaesh/public_html/shopkeeper/orders.php on line 99
+[04-Dec-2022 03:46:59 UTC] PHP Notice:  Undefined index: date_added in /home/aapkaesh/public_html/shopkeeper/orders.php on line 99
+[04-Dec-2022 03:46:59 UTC] PHP Notice:  Undefined index: date_added in /home/aapkaesh/public_html/shopkeeper/orders.php on line 99
+[04-Dec-2022 03:46:59 UTC] PHP Notice:  Undefined index: date_added in /home/aapkaesh/public_html/shopkeeper/orders.php on line 99
+[04-Dec-2022 03:46:59 UTC] PHP Notice:  Undefined index: date_added in /home/aapkaesh/public_html/shopkeeper/orders.php on line 99
+[04-Dec-2022 03:46:59 UTC] PHP Notice:  Undefined index: date_added in /home/aapkaesh/public_html/shopkeeper/orders.php on line 99
+[04-Dec-2022 03:46:59 UTC] PHP Notice:  Undefined index: date_added in /home/aapkaesh/public_html/shopkeeper/orders.php on line 99
+[04-Dec-2022 03:46:59 UTC] PHP Notice:  Undefined index: date_added in /home/aapkaesh/public_html/shopkeeper/orders.php on line 99
+[04-Dec-2022 03:46:59 UTC] PHP Notice:  Undefined index: date_added in /home/aapkaesh/public_html/shopkeeper/orders.php on line 99
+[04-Dec-2022 03:46:59 UTC] PHP Notice:  Undefined index: date_added in /home/aapkaesh/public_html/shopkeeper/orders.php on line 99
+[04-Dec-2022 03:46:59 UTC] PHP Notice:  Undefined index: date_added in /home/aapkaesh/public_html/shopkeeper/orders.php on line 99
+[04-Dec-2022 03:46:59 UTC] PHP Notice:  Undefined index: date_added in /home/aapkaesh/public_html/shopkeeper/orders.php on line 99
+[04-Dec-2022 03:46:59 UTC] PHP Notice:  Undefined index: date_added in /home/aapkaesh/public_html/shopkeeper/orders.php on line 99
+[04-Dec-2022 03:46:59 UTC] PHP Notice:  Undefined index: date_added in /home/aapkaesh/public_html/shopkeeper/orders.php on line 99
+[04-Dec-2022 03:46:59 UTC] PHP Notice:  Undefined index: date_added in /home/aapkaesh/public_html/shopkeeper/orders.php on line 99
+[04-Dec-2022 03:46:59 UTC] PHP Notice:  Undefined index: date_added in /home/aapkaesh/public_html/shopkeeper/orders.php on line 99
+[04-Dec-2022 03:47:03 UTC] PHP Notice:  Undefined index: date_added in /home/aapkaesh/public_html/shopkeeper/order_details.php on line 100
+[04-Dec-2022 09:17:11 Asia/Kolkata] PHP Notice:  Undefined index: created_date in /home/aapkaesh/public_html/shopkeeper/manage_products.php on line 126
+[04-Dec-2022 09:17:11 Asia/Kolkata] PHP Notice:  Undefined index: created_date in /home/aapkaesh/public_html/shopkeeper/manage_products.php on line 126
+[04-Dec-2022 09:17:11 Asia/Kolkata] PHP Notice:  Undefined index: created_date in /home/aapkaesh/public_html/shopkeeper/manage_products.php on line 126
+[04-Dec-2022 09:17:11 Asia/Kolkata] PHP Notice:  Undefined index: created_date in /home/aapkaesh/public_html/shopkeeper/manage_products.php on line 126
+[04-Dec-2022 09:17:11 Asia/Kolkata] PHP Notice:  Undefined index: created_date in /home/aapkaesh/public_html/shopkeeper/manage_products.php on line 126
+[04-Dec-2022 09:17:56 Asia/Kolkata] PHP Notice:  Undefined index: created_date in /home/aapkaesh/public_html/shopkeeper/manage_products.php on line 126
+[04-Dec-2022 09:17:56 Asia/Kolkata] PHP Notice:  Undefined index: created_date in /home/aapkaesh/public_html/shopkeeper/manage_products.php on line 126
+[04-Dec-2022 09:17:56 Asia/Kolkata] PHP Notice:  Undefined index: created_date in /home/aapkaesh/public_html/shopkeeper/manage_products.php on line 126
+[04-Dec-2022 09:17:56 Asia/Kolkata] PHP Notice:  Undefined index: created_date in /home/aapkaesh/public_html/shopkeeper/manage_products.php on line 126
+[04-Dec-2022 09:17:56 Asia/Kolkata] PHP Notice:  Undefined index: created_date in /home/aapkaesh/public_html/shopkeeper/manage_products.php on line 126
+[04-Dec-2022 15:31:59 Asia/Kolkata] PHP Notice:  Undefined index: created_date in /home/aapkaesh/public_html/shopkeeper/manage_products.php on line 126
+[04-Dec-2022 15:31:59 Asia/Kolkata] PHP Notice:  Undefined index: created_date in /home/aapkaesh/public_html/shopkeeper/manage_products.php on line 126
+[04-Dec-2022 15:31:59 Asia/Kolkata] PHP Notice:  Undefined index: created_date in /home/aapkaesh/public_html/shopkeeper/manage_products.php on line 126
+[04-Dec-2022 15:31:59 Asia/Kolkata] PHP Notice:  Undefined index: created_date in /home/aapkaesh/public_html/shopkeeper/manage_products.php on line 126
+[04-Dec-2022 15:31:59 Asia/Kolkata] PHP Notice:  Undefined index: created_date in /home/aapkaesh/public_html/shopkeeper/manage_products.php on line 126
+[04-Dec-2022 15:32:05 Asia/Kolkata] PHP Notice:  Undefined index: created_date in /home/aapkaesh/public_html/shopkeeper/manage_products.php on line 126
+[04-Dec-2022 15:32:05 Asia/Kolkata] PHP Notice:  Undefined index: created_date in /home/aapkaesh/public_html/shopkeeper/manage_products.php on line 126
+[04-Dec-2022 15:32:05 Asia/Kolkata] PHP Notice:  Undefined index: created_date in /home/aapkaesh/public_html/shopkeeper/manage_products.php on line 126
+[04-Dec-2022 15:32:05 Asia/Kolkata] PHP Notice:  Undefined index: created_date in /home/aapkaesh/public_html/shopkeeper/manage_products.php on line 126
+[04-Dec-2022 15:32:05 Asia/Kolkata] PHP Notice:  Undefined index: created_date in /home/aapkaesh/public_html/shopkeeper/manage_products.php on line 126
+[04-Dec-2022 19:22:03 Asia/Kolkata] PHP Notice:  Undefined index: name in /home/aapkaesh/public_html/shopkeeper/include/__header.php on line 17
+[04-Dec-2022 19:22:03 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/aapkaesh/public_html/shopkeeper/manage_slider.php on line 107
+[04-Dec-2022 14:44:28 UTC] PHP Notice:  Undefined index: date_added in /home/aapkaesh/public_html/shopkeeper/order_details.php on line 100
+[27-Dec-2022 10:32:35 Asia/Kolkata] PHP Notice:  Undefined index: name in /home/aapkaesh/public_html/shopkeeper/include/__header.php on line 17
+[27-Dec-2022 10:32:35 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/aapkaesh/public_html/shopkeeper/manage_slider.php on line 107
+[27-Dec-2022 10:32:45 Asia/Kolkata] PHP Notice:  Undefined index: name in /home/aapkaesh/public_html/shopkeeper/include/__header.php on line 17
+[27-Dec-2022 10:32:46 Asia/Kolkata] PHP Notice:  Undefined index: name in /home/aapkaesh/public_html/shopkeeper/include/__header.php on line 17
+[27-Dec-2022 10:32:46 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/aapkaesh/public_html/shopkeeper/orders.php on line 95
+[27-Dec-2022 10:32:47 Asia/Kolkata] PHP Notice:  Undefined index: name in /home/aapkaesh/public_html/shopkeeper/include/__header.php on line 17
+[27-Dec-2022 10:32:47 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/aapkaesh/public_html/shopkeeper/manage_products.php on line 116
+[14-Jan-2023 13:41:15 UTC] PHP Parse error:  syntax error, unexpected 'include' (T_INCLUDE), expecting ')' in /home/aapkaesh/public_html/shopkeeper/subscription.php on line 22
+[14-Jan-2023 13:41:18 UTC] PHP Parse error:  syntax error, unexpected 'include' (T_INCLUDE), expecting ')' in /home/aapkaesh/public_html/shopkeeper/subscription.php on line 22
+[14-Jan-2023 13:54:29 UTC] PHP Parse error:  syntax error, unexpected 'include' (T_INCLUDE), expecting ')' in /home/aapkaesh/public_html/shopkeeper/subscription.php on line 54
+[14-Jan-2023 19:24:48 Asia/Kolkata] PHP Warning:  include(include/__js_css.php): failed to open stream: No such file or directory in /home/aapkaesh/public_html/shopkeeper/manage_products.php on line 24
+[14-Jan-2023 19:24:48 Asia/Kolkata] PHP Warning:  include(): Failed opening 'include/__js_css.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/aapkaesh/public_html/shopkeeper/manage_products.php on line 24
+[14-Jan-2023 13:55:20 UTC] PHP Parse error:  syntax error, unexpected 'include' (T_INCLUDE), expecting ')' in /home/aapkaesh/public_html/shopkeeper/subscription.php on line 54
+[14-Jan-2023 13:55:22 UTC] PHP Parse error:  syntax error, unexpected 'include' (T_INCLUDE), expecting ')' in /home/aapkaesh/public_html/shopkeeper/subscription.php on line 54
+[14-Jan-2023 19:25:37 Asia/Kolkata] PHP Warning:  include(include/__js_css.php): failed to open stream: No such file or directory in /home/aapkaesh/public_html/shopkeeper/manage_products.php on line 24
+[14-Jan-2023 19:25:37 Asia/Kolkata] PHP Warning:  include(): Failed opening 'include/__js_css.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/aapkaesh/public_html/shopkeeper/manage_products.php on line 24
+[14-Jan-2023 13:57:28 UTC] PHP Parse error:  syntax error, unexpected 'include' (T_INCLUDE), expecting ')' in /home/aapkaesh/public_html/shopkeeper/subscription.php on line 54
+[14-Jan-2023 13:57:32 UTC] PHP Parse error:  syntax error, unexpected 'include' (T_INCLUDE), expecting ')' in /home/aapkaesh/public_html/shopkeeper/subscription.php on line 54
+[14-Jan-2023 13:57:59 UTC] PHP Parse error:  syntax error, unexpected 'include' (T_INCLUDE), expecting ')' in /home/aapkaesh/public_html/shopkeeper/subscription.php on line 54
+[14-Jan-2023 13:58:29 UTC] PHP Parse error:  syntax error, unexpected 'include' (T_INCLUDE), expecting ')' in /home/aapkaesh/public_html/shopkeeper/subscription.php on line 22
+[14-Jan-2023 13:58:34 UTC] PHP Parse error:  syntax error, unexpected 'include' (T_INCLUDE), expecting ')' in /home/aapkaesh/public_html/shopkeeper/subscription.php on line 22
+[14-Jan-2023 13:58:40 UTC] PHP Parse error:  syntax error, unexpected 'include' (T_INCLUDE), expecting ')' in /home/aapkaesh/public_html/shopkeeper/subscription.php on line 22
+[14-Jan-2023 14:00:10 UTC] PHP Parse error:  syntax error, unexpected 'include' (T_INCLUDE), expecting ')' in /home/aapkaesh/public_html/shopkeeper/subscription.php on line 22
+[14-Jan-2023 14:00:17 UTC] PHP Parse error:  syntax error, unexpected 'include' (T_INCLUDE), expecting ')' in /home/aapkaesh/public_html/shopkeeper/subscription.php on line 22
+[14-Jan-2023 14:20:21 UTC] PHP Parse error:  syntax error, unexpected 'include' (T_INCLUDE), expecting ')' in /home/aapkaesh/public_html/shopkeeper/subscription.php on line 23
+[14-Jan-2023 14:20:43 UTC] PHP Parse error:  syntax error, unexpected 'include' (T_INCLUDE), expecting ')' in /home/aapkaesh/public_html/shopkeeper/subscription.php on line 23
+[14-Jan-2023 14:21:08 UTC] PHP Parse error:  syntax error, unexpected 'include' (T_INCLUDE), expecting ')' in /home/aapkaesh/public_html/shopkeeper/subscription.php on line 23
+[16-Jan-2023 05:37:15 UTC] PHP Warning:  include(includes/conn.php): failed to open stream: No such file or directory in /home/aapkaesh/public_html/shopkeeper/subscription.php on line 3
+[16-Jan-2023 05:37:15 UTC] PHP Warning:  include(): Failed opening 'includes/conn.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/aapkaesh/public_html/shopkeeper/subscription.php on line 3
+[16-Jan-2023 05:37:15 UTC] PHP Notice:  Undefined variable: conn in /home/aapkaesh/public_html/shopkeeper/subscription.php on line 128
+[16-Jan-2023 05:37:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/aapkaesh/public_html/shopkeeper/subscription.php:128
+Stack trace:
+#0 {main}
+  thrown in /home/aapkaesh/public_html/shopkeeper/subscription.php on line 128
+[16-Jan-2023 06:41:27 UTC] PHP Parse error:  syntax error, unexpected '$r' (T_VARIABLE) in /home/aapkaesh/public_html/shopkeeper/subscription.php on line 78
+[16-Jan-2023 06:41:30 UTC] PHP Parse error:  syntax error, unexpected '$r' (T_VARIABLE) in /home/aapkaesh/public_html/shopkeeper/subscription.php on line 78
+[16-Jan-2023 06:41:58 UTC] PHP Parse error:  syntax error, unexpected '$r' (T_VARIABLE) in /home/aapkaesh/public_html/shopkeeper/subscription.php on line 78
+[16-Jan-2023 06:42:20 UTC] PHP Parse error:  syntax error, unexpected '$r' (T_VARIABLE) in /home/aapkaesh/public_html/shopkeeper/subscription.php on line 78
+[16-Jan-2023 06:55:05 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/aapkaesh/public_html/shopkeeper/subscription.php on line 371
+[16-Jan-2023 06:55:05 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/aapkaesh/public_html/shopkeeper/subscription.php on line 371
+[16-Jan-2023 06:55:06 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/aapkaesh/public_html/shopkeeper/subscription.php on line 371
+[16-Jan-2023 06:55:25 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/aapkaesh/public_html/shopkeeper/subscription.php on line 371
+[16-Jan-2023 06:55:28 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/aapkaesh/public_html/shopkeeper/subscription.php on line 371
+[16-Jan-2023 06:55:29 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/aapkaesh/public_html/shopkeeper/subscription.php on line 371
+[16-Jan-2023 06:58:33 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/aapkaesh/public_html/shopkeeper/subscription.php on line 371
+[16-Jan-2023 06:58:35 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/aapkaesh/public_html/shopkeeper/subscription.php on line 371
+[16-Jan-2023 06:58:38 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/aapkaesh/public_html/shopkeeper/subscription.php on line 371
+[19-Jan-2023 15:17:39 Asia/Kolkata] PHP Notice:  Undefined index: name in /home/aapkaesh/public_html/shopkeeper/include/__header.php on line 17
+[19-Jan-2023 15:17:39 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/aapkaesh/public_html/shopkeeper/orders.php on line 95
+[19-Jan-2023 15:17:41 Asia/Kolkata] PHP Notice:  Undefined index: name in /home/aapkaesh/public_html/shopkeeper/include/__header.php on line 17
+[19-Jan-2023 15:17:41 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/aapkaesh/public_html/shopkeeper/manage_products.php on line 116
+[19-Jan-2023 15:21:12 Asia/Kolkata] PHP Warning:  A non-numeric value encountered in /home/aapkaesh/public_html/shopkeeper/order_details.php on line 137
+[19-Jan-2023 19:59:57 Asia/Kolkata] PHP Warning:  A non-numeric value encountered in /home/aapkaesh/public_html/shopkeeper/order_details.php on line 137
+[19-Jan-2023 19:59:57 Asia/Kolkata] PHP Warning:  A non-numeric value encountered in /home/aapkaesh/public_html/shopkeeper/order_details.php on line 137
+[19-Jan-2023 21:56:56 Asia/Kolkata] PHP Warning:  A non-numeric value encountered in /home/aapkaesh/public_html/shopkeeper/order_details.php on line 137
+[19-Jan-2023 21:56:56 Asia/Kolkata] PHP Warning:  A non-numeric value encountered in /home/aapkaesh/public_html/shopkeeper/order_details.php on line 137
+[20-Jan-2023 09:53:58 Asia/Kolkata] PHP Notice:  Undefined index: name in /home/aapkaesh/public_html/shopkeeper/include/__header.php on line 17
+[20-Jan-2023 09:53:58 Asia/Kolkata] PHP Warning:  A non-numeric value encountered in /home/aapkaesh/public_html/shopkeeper/order_details.php on line 137
+[20-Jan-2023 09:53:58 Asia/Kolkata] PHP Warning:  A non-numeric value encountered in /home/aapkaesh/public_html/shopkeeper/order_details.php on line 137
+[20-Jan-2023 16:28:49 Asia/Kolkata] PHP Notice:  Undefined index: name in /home/aapkaesh/public_html/shopkeeper/include/__header.php on line 17
+[20-Jan-2023 16:28:49 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/aapkaesh/public_html/shopkeeper/orders.php on line 95
+[21-Jan-2023 12:19:28 Asia/Kolkata] PHP Notice:  Undefined index: name in /home/aapkaesh/public_html/shopkeeper/include/__header.php on line 17
+[21-Jan-2023 12:19:28 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/aapkaesh/public_html/shopkeeper/orders.php on line 95
+[26-Jan-2023 17:47:05 Asia/Kolkata] PHP Warning:  A non-numeric value encountered in /home/aapkaesh/public_html/shopkeeper/order_details.php on line 137
+[26-Jan-2023 17:47:05 Asia/Kolkata] PHP Warning:  A non-numeric value encountered in /home/aapkaesh/public_html/shopkeeper/order_details.php on line 137
+[26-Jan-2023 17:47:12 Asia/Kolkata] PHP Warning:  A non-numeric value encountered in /home/aapkaesh/public_html/shopkeeper/order_details.php on line 137
+[26-Jan-2023 17:53:57 Asia/Kolkata] PHP Notice:  Undefined index: name in /home/aapkaesh/public_html/shopkeeper/include/__header.php on line 17
+[26-Jan-2023 17:53:57 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/aapkaesh/public_html/shopkeeper/orders.php on line 95
+[26-Jan-2023 17:54:03 Asia/Kolkata] PHP Notice:  Undefined index: name in /home/aapkaesh/public_html/shopkeeper/include/__header.php on line 17
+[26-Jan-2023 17:54:03 Asia/Kolkata] PHP Warning:  A non-numeric value encountered in /home/aapkaesh/public_html/shopkeeper/order_details.php on line 137
+[26-Jan-2023 17:54:03 Asia/Kolkata] PHP Warning:  A non-numeric value encountered in /home/aapkaesh/public_html/shopkeeper/order_details.php on line 137
+[26-Jan-2023 17:54:09 Asia/Kolkata] PHP Notice:  Undefined index: name in /home/aapkaesh/public_html/shopkeeper/include/__header.php on line 17
+[26-Jan-2023 17:54:09 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/aapkaesh/public_html/shopkeeper/orders.php on line 95
+[26-Jan-2023 18:24:21 Asia/Kolkata] PHP Notice:  Undefined index: name in /home/aapkaesh/public_html/shopkeeper/include/__header.php on line 17
+[26-Jan-2023 18:24:21 Asia/Kolkata] PHP Notice:  Undefined offset: 3 in /home/aapkaesh/public_html/shopkeeper/order_details.php on line 135
+[26-Jan-2023 18:24:21 Asia/Kolkata] PHP Notice:  Undefined offset: 3 in /home/aapkaesh/public_html/shopkeeper/order_details.php on line 137
+[26-Jan-2023 18:24:21 Asia/Kolkata] PHP Notice:  Undefined offset: 4 in /home/aapkaesh/public_html/shopkeeper/order_details.php on line 135
+[26-Jan-2023 18:24:21 Asia/Kolkata] PHP Notice:  Undefined offset: 4 in /home/aapkaesh/public_html/shopkeeper/order_details.php on line 137
+[26-Jan-2023 18:24:21 Asia/Kolkata] PHP Warning:  A non-numeric value encountered in /home/aapkaesh/public_html/shopkeeper/order_details.php on line 137
+[26-Jan-2023 18:24:30 Asia/Kolkata] PHP Notice:  Undefined index: name in /home/aapkaesh/public_html/shopkeeper/include/__header.php on line 17
+[26-Jan-2023 18:24:30 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/aapkaesh/public_html/shopkeeper/orders.php on line 95
+[26-Jan-2023 18:24:32 Asia/Kolkata] PHP Notice:  Undefined index: name in /home/aapkaesh/public_html/shopkeeper/include/__header.php on line 17
+[26-Jan-2023 18:24:32 Asia/Kolkata] PHP Notice:  Undefined offset: 3 in /home/aapkaesh/public_html/shopkeeper/order_details.php on line 135
+[26-Jan-2023 18:24:32 Asia/Kolkata] PHP Notice:  Undefined offset: 3 in /home/aapkaesh/public_html/shopkeeper/order_details.php on line 137
+[26-Jan-2023 18:24:32 Asia/Kolkata] PHP Notice:  Undefined offset: 4 in /home/aapkaesh/public_html/shopkeeper/order_details.php on line 135
+[26-Jan-2023 18:24:32 Asia/Kolkata] PHP Notice:  Undefined offset: 4 in /home/aapkaesh/public_html/shopkeeper/order_details.php on line 137
+[26-Jan-2023 18:24:32 Asia/Kolkata] PHP Notice:  Undefined offset: 5 in /home/aapkaesh/public_html/shopkeeper/order_details.php on line 135
+[26-Jan-2023 18:24:32 Asia/Kolkata] PHP Notice:  Undefined offset: 5 in /home/aapkaesh/public_html/shopkeeper/order_details.php on line 137
+[26-Jan-2023 18:24:32 Asia/Kolkata] PHP Warning:  A non-numeric value encountered in /home/aapkaesh/public_html/shopkeeper/order_details.php on line 137
+[26-Jan-2023 18:24:32 Asia/Kolkata] PHP Notice:  Undefined offset: 6 in /home/aapkaesh/public_html/shopkeeper/order_details.php on line 134
+[26-Jan-2023 18:24:32 Asia/Kolkata] PHP Notice:  Undefined offset: 6 in /home/aapkaesh/public_html/shopkeeper/order_details.php on line 135
+[26-Jan-2023 18:24:32 Asia/Kolkata] PHP Notice:  Undefined offset: 6 in /home/aapkaesh/public_html/shopkeeper/order_details.php on line 137
+[26-Jan-2023 18:24:32 Asia/Kolkata] PHP Notice:  Undefined offset: 6 in /home/aapkaesh/public_html/shopkeeper/order_details.php on line 137
+[26-Jan-2023 18:24:32 Asia/Kolkata] PHP Notice:  Undefined offset: 7 in /home/aapkaesh/public_html/shopkeeper/order_details.php on line 134
+[26-Jan-2023 18:24:32 Asia/Kolkata] PHP Notice:  Undefined offset: 7 in /home/aapkaesh/public_html/shopkeeper/order_details.php on line 135
+[26-Jan-2023 18:24:32 Asia/Kolkata] PHP Notice:  Undefined offset: 7 in /home/aapkaesh/public_html/shopkeeper/order_details.php on line 137
+[26-Jan-2023 18:24:32 Asia/Kolkata] PHP Notice:  Undefined offset: 7 in /home/aapkaesh/public_html/shopkeeper/order_details.php on line 137
+[26-Jan-2023 18:24:37 Asia/Kolkata] PHP Notice:  Undefined index: name in /home/aapkaesh/public_html/shopkeeper/include/__header.php on line 17
+[26-Jan-2023 18:24:37 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/aapkaesh/public_html/shopkeeper/orders.php on line 95
+[26-Jan-2023 18:24:40 Asia/Kolkata] PHP Notice:  Undefined index: name in /home/aapkaesh/public_html/shopkeeper/include/__header.php on line 17
+[26-Jan-2023 18:24:40 Asia/Kolkata] PHP Notice:  Undefined offset: 3 in /home/aapkaesh/public_html/shopkeeper/order_details.php on line 135
+[26-Jan-2023 18:24:40 Asia/Kolkata] PHP Notice:  Undefined offset: 3 in /home/aapkaesh/public_html/shopkeeper/order_details.php on line 137
+[26-Jan-2023 18:24:40 Asia/Kolkata] PHP Warning:  A non-numeric value encountered in /home/aapkaesh/public_html/shopkeeper/order_details.php on line 137
+[26-Jan-2023 18:27:54 Asia/Kolkata] PHP Notice:  Undefined index: name in /home/aapkaesh/public_html/shopkeeper/include/__header.php on line 17
+[26-Jan-2023 18:27:54 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/aapkaesh/public_html/shopkeeper/orders.php on line 95
+[26-Jan-2023 18:27:58 Asia/Kolkata] PHP Notice:  Undefined index: name in /home/aapkaesh/public_html/shopkeeper/include/__header.php on line 17
+[26-Jan-2023 18:27:58 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/aapkaesh/public_html/shopkeeper/orders.php on line 95
+[26-Jan-2023 18:28:03 Asia/Kolkata] PHP Notice:  Undefined index: name in /home/aapkaesh/public_html/shopkeeper/include/__header.php on line 17
+[26-Jan-2023 18:28:03 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/aapkaesh/public_html/shopkeeper/orders.php on line 95
+[26-Jan-2023 18:28:26 Asia/Kolkata] PHP Notice:  Undefined index: name in /home/aapkaesh/public_html/shopkeeper/include/__header.php on line 17
+[26-Jan-2023 18:28:26 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/aapkaesh/public_html/shopkeeper/orders.php on line 95
+[26-Jan-2023 18:28:28 Asia/Kolkata] PHP Notice:  Undefined index: name in /home/aapkaesh/public_html/shopkeeper/include/__header.php on line 17
+[26-Jan-2023 18:28:28 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/aapkaesh/public_html/shopkeeper/orders.php on line 95
+[26-Jan-2023 18:28:52 Asia/Kolkata] PHP Warning:  A non-numeric value encountered in /home/aapkaesh/public_html/shopkeeper/order_details.php on line 137
+[26-Jan-2023 18:28:52 Asia/Kolkata] PHP Warning:  A non-numeric value encountered in /home/aapkaesh/public_html/shopkeeper/order_details.php on line 137
+[26-Jan-2023 18:29:13 Asia/Kolkata] PHP Notice:  Undefined offset: 3 in /home/aapkaesh/public_html/shopkeeper/order_details.php on line 135
+[26-Jan-2023 18:29:13 Asia/Kolkata] PHP Notice:  Undefined offset: 3 in /home/aapkaesh/public_html/shopkeeper/order_details.php on line 137
+[26-Jan-2023 18:29:13 Asia/Kolkata] PHP Warning:  A non-numeric value encountered in /home/aapkaesh/public_html/shopkeeper/order_details.php on line 137
+[26-Jan-2023 18:29:22 Asia/Kolkata] PHP Warning:  A non-numeric value encountered in /home/aapkaesh/public_html/shopkeeper/order_details.php on line 137
+[26-Jan-2023 18:29:22 Asia/Kolkata] PHP Warning:  A non-numeric value encountered in /home/aapkaesh/public_html/shopkeeper/order_details.php on line 137
+[26-Jan-2023 18:32:16 Asia/Kolkata] PHP Warning:  A non-numeric value encountered in /home/aapkaesh/public_html/shopkeeper/order_details.php on line 137
+[26-Jan-2023 18:32:16 Asia/Kolkata] PHP Warning:  A non-numeric value encountered in /home/aapkaesh/public_html/shopkeeper/order_details.php on line 137
+[26-Jan-2023 18:38:48 Asia/Kolkata] PHP Warning:  A non-numeric value encountered in /home/aapkaesh/public_html/shopkeeper/order_details.php on line 137
+[26-Jan-2023 18:38:48 Asia/Kolkata] PHP Warning:  A non-numeric value encountered in /home/aapkaesh/public_html/shopkeeper/order_details.php on line 137
+[26-Jan-2023 18:49:27 Asia/Kolkata] PHP Warning:  A non-numeric value encountered in /home/aapkaesh/public_html/shopkeeper/order_details.php on line 137
+[26-Jan-2023 18:49:27 Asia/Kolkata] PHP Warning:  A non-numeric value encountered in /home/aapkaesh/public_html/shopkeeper/order_details.php on line 137
+[26-Jan-2023 18:56:17 Asia/Kolkata] PHP Warning:  A non-numeric value encountered in /home/aapkaesh/public_html/shopkeeper/order_details.php on line 137
+[26-Jan-2023 18:56:17 Asia/Kolkata] PHP Warning:  A non-numeric value encountered in /home/aapkaesh/public_html/shopkeeper/order_details.php on line 137
+[26-Jan-2023 19:05:46 Asia/Kolkata] PHP Warning:  A non-numeric value encountered in /home/aapkaesh/public_html/shopkeeper/order_details.php on line 136
+[26-Jan-2023 19:05:46 Asia/Kolkata] PHP Warning:  A non-numeric value encountered in /home/aapkaesh/public_html/shopkeeper/order_details.php on line 136
+[26-Jan-2023 19:06:56 Asia/Kolkata] PHP Warning:  A non-numeric value encountered in /home/aapkaesh/public_html/shopkeeper/order_details.php on line 137
+[26-Jan-2023 19:06:56 Asia/Kolkata] PHP Warning:  A non-numeric value encountered in /home/aapkaesh/public_html/shopkeeper/order_details.php on line 137
+[03-Feb-2023 23:14:12 Asia/Kolkata] PHP Notice:  Undefined index: user_name in /home/aapkaesh/public_html/user/include/__header.php on line 17
+[06-Feb-2023 14:26:21 Asia/Kolkata] PHP Notice:  Undefined index: shop_name in /home/aapkaesh/public_html/user/myprofile.php on line 12
+[06-Feb-2023 14:26:21 Asia/Kolkata] PHP Notice:  Undefined index: mobileno in /home/aapkaesh/public_html/user/myprofile.php on line 13
+[06-Feb-2023 14:26:21 Asia/Kolkata] PHP Notice:  Undefined index: shop_address in /home/aapkaesh/public_html/user/myprofile.php on line 14
+[06-Feb-2023 14:26:21 Asia/Kolkata] PHP Notice:  Undefined index: pincode in /home/aapkaesh/public_html/user/myprofile.php on line 15
+[06-Feb-2023 14:26:21 Asia/Kolkata] PHP Notice:  Undefined index: cat_id1 in /home/aapkaesh/public_html/user/myprofile.php on line 17
+[06-Feb-2023 14:26:21 Asia/Kolkata] PHP Notice:  Undefined index: feature_img in /home/aapkaesh/public_html/user/myprofile.php on line 18
+[06-Feb-2023 14:26:21 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/aapkaesh/public_html/user/myprofile.php on line 18
+[06-Feb-2023 14:26:21 Asia/Kolkata] PHP Notice:  Undefined index: feature_img in /home/aapkaesh/public_html/user/myprofile.php on line 19
+[06-Feb-2023 14:26:21 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/aapkaesh/public_html/user/myprofile.php on line 19
+[06-Feb-2023 14:26:21 Asia/Kolkata] PHP Notice:  Undefined index: feature_img in /home/aapkaesh/public_html/user/myprofile.php on line 20
+[06-Feb-2023 14:26:21 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/aapkaesh/public_html/user/myprofile.php on line 20
+[06-Feb-2023 14:26:21 Asia/Kolkata] PHP Notice:  Undefined index: feature_img in /home/aapkaesh/public_html/user/myprofile.php on line 35
+[06-Feb-2023 14:26:21 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/aapkaesh/public_html/user/myprofile.php on line 35
+[06-Feb-2023 14:26:21 Asia/Kolkata] PHP Notice:  Undefined index: feature_img in /home/aapkaesh/public_html/user/myprofile.php on line 35
+[06-Feb-2023 14:26:21 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/aapkaesh/public_html/user/myprofile.php on line 35
+[06-Feb-2023 14:26:21 Asia/Kolkata] PHP Notice:  Undefined index: feature_img in /home/aapkaesh/public_html/user/myprofile.php on line 39
+[06-Feb-2023 14:26:21 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/aapkaesh/public_html/user/myprofile.php on line 39
+[06-Feb-2023 14:33:59 Asia/Kolkata] PHP Notice:  Undefined index: shop_name in /home/aapkaesh/public_html/user/myprofile.php on line 12
+[06-Feb-2023 14:33:59 Asia/Kolkata] PHP Notice:  Undefined index: mobileno in /home/aapkaesh/public_html/user/myprofile.php on line 13
+[06-Feb-2023 14:33:59 Asia/Kolkata] PHP Notice:  Undefined index: shop_address in /home/aapkaesh/public_html/user/myprofile.php on line 14
+[06-Feb-2023 14:33:59 Asia/Kolkata] PHP Notice:  Undefined index: pincode in /home/aapkaesh/public_html/user/myprofile.php on line 15
+[06-Feb-2023 14:33:59 Asia/Kolkata] PHP Notice:  Undefined index: cat_id1 in /home/aapkaesh/public_html/user/myprofile.php on line 17
+[06-Feb-2023 14:33:59 Asia/Kolkata] PHP Notice:  Undefined index: feature_img in /home/aapkaesh/public_html/user/myprofile.php on line 18
+[06-Feb-2023 14:33:59 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/aapkaesh/public_html/user/myprofile.php on line 18
+[06-Feb-2023 14:33:59 Asia/Kolkata] PHP Notice:  Undefined index: feature_img in /home/aapkaesh/public_html/user/myprofile.php on line 19
+[06-Feb-2023 14:33:59 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/aapkaesh/public_html/user/myprofile.php on line 19
+[06-Feb-2023 14:33:59 Asia/Kolkata] PHP Notice:  Undefined index: feature_img in /home/aapkaesh/public_html/user/myprofile.php on line 20
+[06-Feb-2023 14:33:59 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/aapkaesh/public_html/user/myprofile.php on line 20
+[06-Feb-2023 14:33:59 Asia/Kolkata] PHP Notice:  Undefined index: feature_img in /home/aapkaesh/public_html/user/myprofile.php on line 35
+[06-Feb-2023 14:33:59 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/aapkaesh/public_html/user/myprofile.php on line 35
+[06-Feb-2023 14:33:59 Asia/Kolkata] PHP Notice:  Undefined index: feature_img in /home/aapkaesh/public_html/user/myprofile.php on line 35
+[06-Feb-2023 14:33:59 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/aapkaesh/public_html/user/myprofile.php on line 35
+[06-Feb-2023 14:33:59 Asia/Kolkata] PHP Notice:  Undefined index: feature_img in /home/aapkaesh/public_html/user/myprofile.php on line 39
+[06-Feb-2023 14:33:59 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/aapkaesh/public_html/user/myprofile.php on line 39
+[06-Feb-2023 15:03:18 Asia/Kolkata] PHP Notice:  Undefined index: shop_name in /home/aapkaesh/public_html/user/myprofile.php on line 12
+[06-Feb-2023 15:03:18 Asia/Kolkata] PHP Notice:  Undefined index: mobileno in /home/aapkaesh/public_html/user/myprofile.php on line 13
+[06-Feb-2023 15:03:18 Asia/Kolkata] PHP Notice:  Undefined index: shop_address in /home/aapkaesh/public_html/user/myprofile.php on line 14
+[06-Feb-2023 15:03:18 Asia/Kolkata] PHP Notice:  Undefined index: pincode in /home/aapkaesh/public_html/user/myprofile.php on line 15
+[06-Feb-2023 15:03:18 Asia/Kolkata] PHP Notice:  Undefined index: cat_id1 in /home/aapkaesh/public_html/user/myprofile.php on line 17
+[06-Feb-2023 15:03:18 Asia/Kolkata] PHP Notice:  Undefined index: feature_img in /home/aapkaesh/public_html/user/myprofile.php on line 18
+[06-Feb-2023 15:03:18 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/aapkaesh/public_html/user/myprofile.php on line 18
+[06-Feb-2023 15:03:18 Asia/Kolkata] PHP Notice:  Undefined index: feature_img in /home/aapkaesh/public_html/user/myprofile.php on line 19
+[06-Feb-2023 15:03:18 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/aapkaesh/public_html/user/myprofile.php on line 19
+[06-Feb-2023 15:03:18 Asia/Kolkata] PHP Notice:  Undefined index: feature_img in /home/aapkaesh/public_html/user/myprofile.php on line 20
+[06-Feb-2023 15:03:18 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/aapkaesh/public_html/user/myprofile.php on line 20
+[06-Feb-2023 15:03:18 Asia/Kolkata] PHP Notice:  Undefined index: feature_img in /home/aapkaesh/public_html/user/myprofile.php on line 35
+[06-Feb-2023 15:03:18 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/aapkaesh/public_html/user/myprofile.php on line 35
+[06-Feb-2023 15:03:18 Asia/Kolkata] PHP Notice:  Undefined index: feature_img in /home/aapkaesh/public_html/user/myprofile.php on line 35
+[06-Feb-2023 15:03:18 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/aapkaesh/public_html/user/myprofile.php on line 35
+[06-Feb-2023 15:03:18 Asia/Kolkata] PHP Notice:  Undefined index: feature_img in /home/aapkaesh/public_html/user/myprofile.php on line 39
+[06-Feb-2023 15:03:18 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/aapkaesh/public_html/user/myprofile.php on line 39
+[06-Feb-2023 09:49:43 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/aapkaesh/public_html/user/myprofile.php on line 70
+[06-Feb-2023 09:49:47 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/aapkaesh/public_html/user/myprofile.php on line 70
+[06-Feb-2023 15:21:17 Asia/Kolkata] PHP Notice:  Undefined variable: errors in /home/aapkaesh/public_html/user/myprofile.php on line 43
+[06-Feb-2023 15:21:17 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/aapkaesh/public_html/user/myprofile.php on line 43
+[06-Feb-2023 15:21:17 Asia/Kolkata] PHP Notice:  Undefined variable: file_tmp1 in /home/aapkaesh/public_html/user/myprofile.php on line 44
+[06-Feb-2023 15:21:17 Asia/Kolkata] PHP Notice:  Undefined variable: file_name1 in /home/aapkaesh/public_html/user/myprofile.php on line 44
+[06-Feb-2023 15:21:17 Asia/Kolkata] PHP Notice:  Undefined variable: cat_id1 in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[06-Feb-2023 15:21:17 Asia/Kolkata] PHP Notice:  Undefined variable: shop_name in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[06-Feb-2023 15:21:17 Asia/Kolkata] PHP Notice:  Undefined variable: mobileno in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[06-Feb-2023 15:21:17 Asia/Kolkata] PHP Notice:  Undefined variable: shop_address in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[06-Feb-2023 15:21:17 Asia/Kolkata] PHP Notice:  Undefined variable: pincode in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[06-Feb-2023 15:21:17 Asia/Kolkata] PHP Notice:  Undefined variable: file_name1 in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[06-Feb-2023 15:21:17 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[06-Feb-2023 15:21:30 Asia/Kolkata] PHP Notice:  Undefined offset: 3 in /home/aapkaesh/public_html/user/order_details.php on line 145
+[06-Feb-2023 15:21:30 Asia/Kolkata] PHP Notice:  Undefined offset: 3 in /home/aapkaesh/public_html/user/order_details.php on line 146
+[06-Feb-2023 15:33:20 Asia/Kolkata] PHP Notice:  Undefined variable: errors in /home/aapkaesh/public_html/user/myprofile.php on line 43
+[06-Feb-2023 15:33:20 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/aapkaesh/public_html/user/myprofile.php on line 43
+[06-Feb-2023 15:33:20 Asia/Kolkata] PHP Notice:  Undefined variable: file_tmp1 in /home/aapkaesh/public_html/user/myprofile.php on line 44
+[06-Feb-2023 15:33:20 Asia/Kolkata] PHP Notice:  Undefined variable: file_name1 in /home/aapkaesh/public_html/user/myprofile.php on line 44
+[06-Feb-2023 15:33:20 Asia/Kolkata] PHP Notice:  Undefined variable: cat_id1 in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[06-Feb-2023 15:33:20 Asia/Kolkata] PHP Notice:  Undefined variable: shop_name in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[06-Feb-2023 15:33:20 Asia/Kolkata] PHP Notice:  Undefined variable: mobileno in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[06-Feb-2023 15:33:20 Asia/Kolkata] PHP Notice:  Undefined variable: shop_address in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[06-Feb-2023 15:33:20 Asia/Kolkata] PHP Notice:  Undefined variable: pincode in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[06-Feb-2023 15:33:20 Asia/Kolkata] PHP Notice:  Undefined variable: file_name1 in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[06-Feb-2023 15:33:20 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[06-Feb-2023 16:01:28 Asia/Kolkata] PHP Notice:  Undefined variable: errors in /home/aapkaesh/public_html/user/myprofile.php on line 43
+[06-Feb-2023 16:01:28 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/aapkaesh/public_html/user/myprofile.php on line 43
+[06-Feb-2023 16:01:28 Asia/Kolkata] PHP Notice:  Undefined variable: file_tmp1 in /home/aapkaesh/public_html/user/myprofile.php on line 44
+[06-Feb-2023 16:01:28 Asia/Kolkata] PHP Notice:  Undefined variable: file_name1 in /home/aapkaesh/public_html/user/myprofile.php on line 44
+[06-Feb-2023 16:01:28 Asia/Kolkata] PHP Notice:  Undefined variable: cat_id1 in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[06-Feb-2023 16:01:28 Asia/Kolkata] PHP Notice:  Undefined variable: shop_name in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[06-Feb-2023 16:01:28 Asia/Kolkata] PHP Notice:  Undefined variable: mobileno in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[06-Feb-2023 16:01:28 Asia/Kolkata] PHP Notice:  Undefined variable: shop_address in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[06-Feb-2023 16:01:28 Asia/Kolkata] PHP Notice:  Undefined variable: pincode in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[06-Feb-2023 16:01:28 Asia/Kolkata] PHP Notice:  Undefined variable: file_name1 in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[06-Feb-2023 16:01:28 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[06-Feb-2023 16:01:53 Asia/Kolkata] PHP Notice:  Undefined offset: 3 in /home/aapkaesh/public_html/user/order_details.php on line 145
+[06-Feb-2023 16:01:53 Asia/Kolkata] PHP Notice:  Undefined offset: 3 in /home/aapkaesh/public_html/user/order_details.php on line 146
+[06-Feb-2023 16:02:52 Asia/Kolkata] PHP Notice:  Undefined variable: errors in /home/aapkaesh/public_html/user/myprofile.php on line 43
+[06-Feb-2023 16:02:52 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/aapkaesh/public_html/user/myprofile.php on line 43
+[06-Feb-2023 16:02:52 Asia/Kolkata] PHP Notice:  Undefined variable: file_tmp1 in /home/aapkaesh/public_html/user/myprofile.php on line 44
+[06-Feb-2023 16:02:52 Asia/Kolkata] PHP Notice:  Undefined variable: file_name1 in /home/aapkaesh/public_html/user/myprofile.php on line 44
+[06-Feb-2023 16:02:52 Asia/Kolkata] PHP Notice:  Undefined variable: cat_id1 in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[06-Feb-2023 16:02:52 Asia/Kolkata] PHP Notice:  Undefined variable: shop_name in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[06-Feb-2023 16:02:52 Asia/Kolkata] PHP Notice:  Undefined variable: mobileno in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[06-Feb-2023 16:02:52 Asia/Kolkata] PHP Notice:  Undefined variable: shop_address in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[06-Feb-2023 16:02:52 Asia/Kolkata] PHP Notice:  Undefined variable: pincode in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[06-Feb-2023 16:02:52 Asia/Kolkata] PHP Notice:  Undefined variable: file_name1 in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[06-Feb-2023 16:02:52 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[06-Feb-2023 16:03:08 Asia/Kolkata] PHP Notice:  Undefined offset: 3 in /home/aapkaesh/public_html/user/order_details.php on line 145
+[06-Feb-2023 16:03:08 Asia/Kolkata] PHP Notice:  Undefined offset: 3 in /home/aapkaesh/public_html/user/order_details.php on line 146
+[07-Feb-2023 18:54:48 Asia/Kolkata] PHP Notice:  Undefined variable: errors in /home/aapkaesh/public_html/user/myprofile.php on line 43
+[07-Feb-2023 18:54:48 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/aapkaesh/public_html/user/myprofile.php on line 43
+[07-Feb-2023 18:54:48 Asia/Kolkata] PHP Notice:  Undefined variable: file_tmp1 in /home/aapkaesh/public_html/user/myprofile.php on line 44
+[07-Feb-2023 18:54:48 Asia/Kolkata] PHP Notice:  Undefined variable: file_name1 in /home/aapkaesh/public_html/user/myprofile.php on line 44
+[07-Feb-2023 18:54:48 Asia/Kolkata] PHP Notice:  Undefined variable: cat_id1 in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[07-Feb-2023 18:54:48 Asia/Kolkata] PHP Notice:  Undefined variable: shop_name in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[07-Feb-2023 18:54:48 Asia/Kolkata] PHP Notice:  Undefined variable: mobileno in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[07-Feb-2023 18:54:48 Asia/Kolkata] PHP Notice:  Undefined variable: shop_address in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[07-Feb-2023 18:54:48 Asia/Kolkata] PHP Notice:  Undefined variable: pincode in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[07-Feb-2023 18:54:48 Asia/Kolkata] PHP Notice:  Undefined variable: file_name1 in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[07-Feb-2023 18:54:48 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[07-Feb-2023 18:54:59 Asia/Kolkata] PHP Notice:  Undefined index: shop_name in /home/aapkaesh/public_html/user/myprofile.php on line 12
+[07-Feb-2023 18:54:59 Asia/Kolkata] PHP Notice:  Undefined index: mobileno in /home/aapkaesh/public_html/user/myprofile.php on line 13
+[07-Feb-2023 18:54:59 Asia/Kolkata] PHP Notice:  Undefined index: shop_address in /home/aapkaesh/public_html/user/myprofile.php on line 14
+[07-Feb-2023 18:54:59 Asia/Kolkata] PHP Notice:  Undefined index: pincode in /home/aapkaesh/public_html/user/myprofile.php on line 15
+[07-Feb-2023 18:54:59 Asia/Kolkata] PHP Notice:  Undefined index: cat_id1 in /home/aapkaesh/public_html/user/myprofile.php on line 17
+[07-Feb-2023 18:54:59 Asia/Kolkata] PHP Notice:  Undefined index: feature_img in /home/aapkaesh/public_html/user/myprofile.php on line 18
+[07-Feb-2023 18:54:59 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/aapkaesh/public_html/user/myprofile.php on line 18
+[07-Feb-2023 18:54:59 Asia/Kolkata] PHP Notice:  Undefined index: feature_img in /home/aapkaesh/public_html/user/myprofile.php on line 19
+[07-Feb-2023 18:54:59 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/aapkaesh/public_html/user/myprofile.php on line 19
+[07-Feb-2023 18:54:59 Asia/Kolkata] PHP Notice:  Undefined index: feature_img in /home/aapkaesh/public_html/user/myprofile.php on line 20
+[07-Feb-2023 18:54:59 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/aapkaesh/public_html/user/myprofile.php on line 20
+[07-Feb-2023 18:54:59 Asia/Kolkata] PHP Notice:  Undefined index: feature_img in /home/aapkaesh/public_html/user/myprofile.php on line 35
+[07-Feb-2023 18:54:59 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/aapkaesh/public_html/user/myprofile.php on line 35
+[07-Feb-2023 18:54:59 Asia/Kolkata] PHP Notice:  Undefined index: feature_img in /home/aapkaesh/public_html/user/myprofile.php on line 35
+[07-Feb-2023 18:54:59 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/aapkaesh/public_html/user/myprofile.php on line 35
+[07-Feb-2023 18:55:38 Asia/Kolkata] PHP Notice:  Undefined variable: errors in /home/aapkaesh/public_html/user/myprofile.php on line 43
+[07-Feb-2023 18:55:38 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/aapkaesh/public_html/user/myprofile.php on line 43
+[07-Feb-2023 18:55:38 Asia/Kolkata] PHP Notice:  Undefined variable: file_tmp1 in /home/aapkaesh/public_html/user/myprofile.php on line 44
+[07-Feb-2023 18:55:38 Asia/Kolkata] PHP Notice:  Undefined variable: file_name1 in /home/aapkaesh/public_html/user/myprofile.php on line 44
+[07-Feb-2023 18:55:38 Asia/Kolkata] PHP Notice:  Undefined variable: cat_id1 in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[07-Feb-2023 18:55:38 Asia/Kolkata] PHP Notice:  Undefined variable: shop_name in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[07-Feb-2023 18:55:38 Asia/Kolkata] PHP Notice:  Undefined variable: mobileno in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[07-Feb-2023 18:55:38 Asia/Kolkata] PHP Notice:  Undefined variable: shop_address in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[07-Feb-2023 18:55:38 Asia/Kolkata] PHP Notice:  Undefined variable: pincode in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[07-Feb-2023 18:55:38 Asia/Kolkata] PHP Notice:  Undefined variable: file_name1 in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[07-Feb-2023 18:55:38 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[08-Feb-2023 12:16:17 Asia/Kolkata] PHP Notice:  Undefined variable: errors in /home/aapkaesh/public_html/user/myprofile.php on line 43
+[08-Feb-2023 12:16:17 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/aapkaesh/public_html/user/myprofile.php on line 43
+[08-Feb-2023 12:16:17 Asia/Kolkata] PHP Notice:  Undefined variable: file_tmp1 in /home/aapkaesh/public_html/user/myprofile.php on line 44
+[08-Feb-2023 12:16:17 Asia/Kolkata] PHP Notice:  Undefined variable: file_name1 in /home/aapkaesh/public_html/user/myprofile.php on line 44
+[08-Feb-2023 12:16:17 Asia/Kolkata] PHP Notice:  Undefined variable: cat_id1 in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[08-Feb-2023 12:16:17 Asia/Kolkata] PHP Notice:  Undefined variable: shop_name in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[08-Feb-2023 12:16:17 Asia/Kolkata] PHP Notice:  Undefined variable: mobileno in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[08-Feb-2023 12:16:17 Asia/Kolkata] PHP Notice:  Undefined variable: shop_address in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[08-Feb-2023 12:16:17 Asia/Kolkata] PHP Notice:  Undefined variable: pincode in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[08-Feb-2023 12:16:17 Asia/Kolkata] PHP Notice:  Undefined variable: file_name1 in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[08-Feb-2023 12:16:17 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[14-Feb-2023 23:06:43 Asia/Kolkata] PHP Notice:  Undefined variable: errors in /home/aapkaesh/public_html/user/myprofile.php on line 43
+[14-Feb-2023 23:06:43 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/aapkaesh/public_html/user/myprofile.php on line 43
+[14-Feb-2023 23:06:43 Asia/Kolkata] PHP Notice:  Undefined variable: file_tmp1 in /home/aapkaesh/public_html/user/myprofile.php on line 44
+[14-Feb-2023 23:06:43 Asia/Kolkata] PHP Notice:  Undefined variable: file_name1 in /home/aapkaesh/public_html/user/myprofile.php on line 44
+[14-Feb-2023 23:06:43 Asia/Kolkata] PHP Notice:  Undefined variable: cat_id1 in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[14-Feb-2023 23:06:43 Asia/Kolkata] PHP Notice:  Undefined variable: shop_name in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[14-Feb-2023 23:06:43 Asia/Kolkata] PHP Notice:  Undefined variable: mobileno in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[14-Feb-2023 23:06:43 Asia/Kolkata] PHP Notice:  Undefined variable: shop_address in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[14-Feb-2023 23:06:43 Asia/Kolkata] PHP Notice:  Undefined variable: pincode in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[14-Feb-2023 23:06:43 Asia/Kolkata] PHP Notice:  Undefined variable: file_name1 in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[14-Feb-2023 23:06:43 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[14-Feb-2023 23:07:04 Asia/Kolkata] PHP Notice:  Undefined variable: errors in /home/aapkaesh/public_html/user/myprofile.php on line 43
+[14-Feb-2023 23:07:04 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/aapkaesh/public_html/user/myprofile.php on line 43
+[14-Feb-2023 23:07:04 Asia/Kolkata] PHP Notice:  Undefined variable: file_tmp1 in /home/aapkaesh/public_html/user/myprofile.php on line 44
+[14-Feb-2023 23:07:04 Asia/Kolkata] PHP Notice:  Undefined variable: file_name1 in /home/aapkaesh/public_html/user/myprofile.php on line 44
+[14-Feb-2023 23:07:04 Asia/Kolkata] PHP Notice:  Undefined variable: cat_id1 in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[14-Feb-2023 23:07:04 Asia/Kolkata] PHP Notice:  Undefined variable: shop_name in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[14-Feb-2023 23:07:04 Asia/Kolkata] PHP Notice:  Undefined variable: mobileno in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[14-Feb-2023 23:07:04 Asia/Kolkata] PHP Notice:  Undefined variable: shop_address in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[14-Feb-2023 23:07:04 Asia/Kolkata] PHP Notice:  Undefined variable: pincode in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[14-Feb-2023 23:07:04 Asia/Kolkata] PHP Notice:  Undefined variable: file_name1 in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[14-Feb-2023 23:07:04 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[14-Feb-2023 23:10:47 Asia/Kolkata] PHP Notice:  Undefined variable: errors in /home/aapkaesh/public_html/user/myprofile.php on line 43
+[14-Feb-2023 23:10:47 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/aapkaesh/public_html/user/myprofile.php on line 43
+[14-Feb-2023 23:10:47 Asia/Kolkata] PHP Notice:  Undefined variable: file_tmp1 in /home/aapkaesh/public_html/user/myprofile.php on line 44
+[14-Feb-2023 23:10:47 Asia/Kolkata] PHP Notice:  Undefined variable: file_name1 in /home/aapkaesh/public_html/user/myprofile.php on line 44
+[14-Feb-2023 23:10:47 Asia/Kolkata] PHP Notice:  Undefined variable: cat_id1 in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[14-Feb-2023 23:10:47 Asia/Kolkata] PHP Notice:  Undefined variable: shop_name in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[14-Feb-2023 23:10:47 Asia/Kolkata] PHP Notice:  Undefined variable: mobileno in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[14-Feb-2023 23:10:47 Asia/Kolkata] PHP Notice:  Undefined variable: shop_address in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[14-Feb-2023 23:10:47 Asia/Kolkata] PHP Notice:  Undefined variable: pincode in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[14-Feb-2023 23:10:47 Asia/Kolkata] PHP Notice:  Undefined variable: file_name1 in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[14-Feb-2023 23:10:47 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[14-Feb-2023 23:14:27 Asia/Kolkata] PHP Notice:  Undefined variable: errors in /home/aapkaesh/public_html/user/myprofile.php on line 43
+[14-Feb-2023 23:14:27 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/aapkaesh/public_html/user/myprofile.php on line 43
+[14-Feb-2023 23:14:27 Asia/Kolkata] PHP Notice:  Undefined variable: file_tmp1 in /home/aapkaesh/public_html/user/myprofile.php on line 44
+[14-Feb-2023 23:14:27 Asia/Kolkata] PHP Notice:  Undefined variable: file_name1 in /home/aapkaesh/public_html/user/myprofile.php on line 44
+[14-Feb-2023 23:14:27 Asia/Kolkata] PHP Notice:  Undefined variable: cat_id1 in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[14-Feb-2023 23:14:27 Asia/Kolkata] PHP Notice:  Undefined variable: shop_name in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[14-Feb-2023 23:14:27 Asia/Kolkata] PHP Notice:  Undefined variable: mobileno in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[14-Feb-2023 23:14:27 Asia/Kolkata] PHP Notice:  Undefined variable: shop_address in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[14-Feb-2023 23:14:27 Asia/Kolkata] PHP Notice:  Undefined variable: pincode in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[14-Feb-2023 23:14:27 Asia/Kolkata] PHP Notice:  Undefined variable: file_name1 in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[14-Feb-2023 23:14:27 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[17-Feb-2023 12:15:03 Asia/Kolkata] PHP Notice:  Undefined variable: errors in /home/aapkaesh/public_html/user/myprofile.php on line 43
+[17-Feb-2023 12:15:03 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/aapkaesh/public_html/user/myprofile.php on line 43
+[17-Feb-2023 12:15:03 Asia/Kolkata] PHP Notice:  Undefined variable: file_tmp1 in /home/aapkaesh/public_html/user/myprofile.php on line 44
+[17-Feb-2023 12:15:03 Asia/Kolkata] PHP Notice:  Undefined variable: file_name1 in /home/aapkaesh/public_html/user/myprofile.php on line 44
+[17-Feb-2023 12:15:03 Asia/Kolkata] PHP Notice:  Undefined variable: cat_id1 in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[17-Feb-2023 12:15:03 Asia/Kolkata] PHP Notice:  Undefined variable: shop_name in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[17-Feb-2023 12:15:03 Asia/Kolkata] PHP Notice:  Undefined variable: mobileno in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[17-Feb-2023 12:15:03 Asia/Kolkata] PHP Notice:  Undefined variable: shop_address in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[17-Feb-2023 12:15:03 Asia/Kolkata] PHP Notice:  Undefined variable: pincode in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[17-Feb-2023 12:15:03 Asia/Kolkata] PHP Notice:  Undefined variable: file_name1 in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[17-Feb-2023 12:15:03 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[17-Feb-2023 12:15:50 Asia/Kolkata] PHP Notice:  Undefined offset: 3 in /home/aapkaesh/public_html/user/order_details.php on line 145
+[17-Feb-2023 12:15:50 Asia/Kolkata] PHP Notice:  Undefined offset: 3 in /home/aapkaesh/public_html/user/order_details.php on line 146
+[17-Feb-2023 12:18:24 Asia/Kolkata] PHP Notice:  Undefined offset: 3 in /home/aapkaesh/public_html/user/order_details.php on line 145
+[17-Feb-2023 12:18:24 Asia/Kolkata] PHP Notice:  Undefined offset: 3 in /home/aapkaesh/public_html/user/order_details.php on line 146
+[02-Mar-2023 14:01:44 Asia/Kolkata] PHP Notice:  Undefined variable: errors in /home/aapkaesh/public_html/user/myprofile.php on line 43
+[02-Mar-2023 14:01:44 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/aapkaesh/public_html/user/myprofile.php on line 43
+[02-Mar-2023 14:01:44 Asia/Kolkata] PHP Notice:  Undefined variable: file_tmp1 in /home/aapkaesh/public_html/user/myprofile.php on line 44
+[02-Mar-2023 14:01:44 Asia/Kolkata] PHP Notice:  Undefined variable: file_name1 in /home/aapkaesh/public_html/user/myprofile.php on line 44
+[02-Mar-2023 14:01:44 Asia/Kolkata] PHP Notice:  Undefined variable: cat_id1 in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[02-Mar-2023 14:01:44 Asia/Kolkata] PHP Notice:  Undefined variable: shop_name in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[02-Mar-2023 14:01:44 Asia/Kolkata] PHP Notice:  Undefined variable: mobileno in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[02-Mar-2023 14:01:44 Asia/Kolkata] PHP Notice:  Undefined variable: shop_address in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[02-Mar-2023 14:01:44 Asia/Kolkata] PHP Notice:  Undefined variable: pincode in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[02-Mar-2023 14:01:44 Asia/Kolkata] PHP Notice:  Undefined variable: file_name1 in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[02-Mar-2023 14:01:44 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[02-Mar-2023 14:04:29 Asia/Kolkata] PHP Notice:  Undefined variable: errors in /home/aapkaesh/public_html/user/myprofile.php on line 43
+[02-Mar-2023 14:04:29 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/aapkaesh/public_html/user/myprofile.php on line 43
+[02-Mar-2023 14:04:29 Asia/Kolkata] PHP Notice:  Undefined variable: file_tmp1 in /home/aapkaesh/public_html/user/myprofile.php on line 44
+[02-Mar-2023 14:04:29 Asia/Kolkata] PHP Notice:  Undefined variable: file_name1 in /home/aapkaesh/public_html/user/myprofile.php on line 44
+[02-Mar-2023 14:04:29 Asia/Kolkata] PHP Notice:  Undefined variable: cat_id1 in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[02-Mar-2023 14:04:29 Asia/Kolkata] PHP Notice:  Undefined variable: shop_name in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[02-Mar-2023 14:04:29 Asia/Kolkata] PHP Notice:  Undefined variable: mobileno in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[02-Mar-2023 14:04:29 Asia/Kolkata] PHP Notice:  Undefined variable: shop_address in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[02-Mar-2023 14:04:29 Asia/Kolkata] PHP Notice:  Undefined variable: pincode in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[02-Mar-2023 14:04:29 Asia/Kolkata] PHP Notice:  Undefined variable: file_name1 in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[02-Mar-2023 14:04:29 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[02-Mar-2023 14:06:16 Asia/Kolkata] PHP Notice:  Undefined variable: errors in /home/aapkaesh/public_html/user/myprofile.php on line 43
+[02-Mar-2023 14:06:16 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/aapkaesh/public_html/user/myprofile.php on line 43
+[02-Mar-2023 14:06:16 Asia/Kolkata] PHP Notice:  Undefined variable: file_tmp1 in /home/aapkaesh/public_html/user/myprofile.php on line 44
+[02-Mar-2023 14:06:16 Asia/Kolkata] PHP Notice:  Undefined variable: file_name1 in /home/aapkaesh/public_html/user/myprofile.php on line 44
+[02-Mar-2023 14:06:16 Asia/Kolkata] PHP Notice:  Undefined variable: cat_id1 in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[02-Mar-2023 14:06:16 Asia/Kolkata] PHP Notice:  Undefined variable: shop_name in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[02-Mar-2023 14:06:16 Asia/Kolkata] PHP Notice:  Undefined variable: mobileno in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[02-Mar-2023 14:06:16 Asia/Kolkata] PHP Notice:  Undefined variable: shop_address in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[02-Mar-2023 14:06:16 Asia/Kolkata] PHP Notice:  Undefined variable: pincode in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[02-Mar-2023 14:06:16 Asia/Kolkata] PHP Notice:  Undefined variable: file_name1 in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[02-Mar-2023 14:06:16 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[02-Mar-2023 14:08:07 Asia/Kolkata] PHP Notice:  Undefined variable: errors in /home/aapkaesh/public_html/user/myprofile.php on line 43
+[02-Mar-2023 14:08:07 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/aapkaesh/public_html/user/myprofile.php on line 43
+[02-Mar-2023 14:08:07 Asia/Kolkata] PHP Notice:  Undefined variable: file_tmp1 in /home/aapkaesh/public_html/user/myprofile.php on line 44
+[02-Mar-2023 14:08:07 Asia/Kolkata] PHP Notice:  Undefined variable: file_name1 in /home/aapkaesh/public_html/user/myprofile.php on line 44
+[02-Mar-2023 14:08:07 Asia/Kolkata] PHP Notice:  Undefined variable: cat_id1 in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[02-Mar-2023 14:08:07 Asia/Kolkata] PHP Notice:  Undefined variable: shop_name in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[02-Mar-2023 14:08:07 Asia/Kolkata] PHP Notice:  Undefined variable: mobileno in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[02-Mar-2023 14:08:07 Asia/Kolkata] PHP Notice:  Undefined variable: shop_address in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[02-Mar-2023 14:08:07 Asia/Kolkata] PHP Notice:  Undefined variable: pincode in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[02-Mar-2023 14:08:07 Asia/Kolkata] PHP Notice:  Undefined variable: file_name1 in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[02-Mar-2023 14:08:07 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[02-Mar-2023 14:10:43 Asia/Kolkata] PHP Notice:  Undefined variable: errors in /home/aapkaesh/public_html/user/myprofile.php on line 43
+[02-Mar-2023 14:10:43 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/aapkaesh/public_html/user/myprofile.php on line 43
+[02-Mar-2023 14:10:43 Asia/Kolkata] PHP Notice:  Undefined variable: file_tmp1 in /home/aapkaesh/public_html/user/myprofile.php on line 44
+[02-Mar-2023 14:10:43 Asia/Kolkata] PHP Notice:  Undefined variable: file_name1 in /home/aapkaesh/public_html/user/myprofile.php on line 44
+[02-Mar-2023 14:10:43 Asia/Kolkata] PHP Notice:  Undefined variable: cat_id1 in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[02-Mar-2023 14:10:43 Asia/Kolkata] PHP Notice:  Undefined variable: shop_name in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[02-Mar-2023 14:10:43 Asia/Kolkata] PHP Notice:  Undefined variable: mobileno in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[02-Mar-2023 14:10:43 Asia/Kolkata] PHP Notice:  Undefined variable: shop_address in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[02-Mar-2023 14:10:43 Asia/Kolkata] PHP Notice:  Undefined variable: pincode in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[02-Mar-2023 14:10:43 Asia/Kolkata] PHP Notice:  Undefined variable: file_name1 in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[02-Mar-2023 14:10:43 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[02-Mar-2023 14:34:33 Asia/Kolkata] PHP Notice:  Undefined variable: errors in /home/aapkaesh/public_html/user/myprofile.php on line 43
+[02-Mar-2023 14:34:33 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/aapkaesh/public_html/user/myprofile.php on line 43
+[02-Mar-2023 14:34:33 Asia/Kolkata] PHP Notice:  Undefined variable: file_tmp1 in /home/aapkaesh/public_html/user/myprofile.php on line 44
+[02-Mar-2023 14:34:33 Asia/Kolkata] PHP Notice:  Undefined variable: file_name1 in /home/aapkaesh/public_html/user/myprofile.php on line 44
+[02-Mar-2023 14:34:33 Asia/Kolkata] PHP Notice:  Undefined variable: cat_id1 in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[02-Mar-2023 14:34:33 Asia/Kolkata] PHP Notice:  Undefined variable: shop_name in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[02-Mar-2023 14:34:33 Asia/Kolkata] PHP Notice:  Undefined variable: mobileno in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[02-Mar-2023 14:34:33 Asia/Kolkata] PHP Notice:  Undefined variable: shop_address in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[02-Mar-2023 14:34:33 Asia/Kolkata] PHP Notice:  Undefined variable: pincode in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[02-Mar-2023 14:34:33 Asia/Kolkata] PHP Notice:  Undefined variable: file_name1 in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[02-Mar-2023 14:34:33 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[02-Mar-2023 14:48:02 Asia/Kolkata] PHP Notice:  Undefined variable: errors in /home/aapkaesh/public_html/user/myprofile.php on line 43
+[02-Mar-2023 14:48:02 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/aapkaesh/public_html/user/myprofile.php on line 43
+[02-Mar-2023 14:48:02 Asia/Kolkata] PHP Notice:  Undefined variable: file_tmp1 in /home/aapkaesh/public_html/user/myprofile.php on line 44
+[02-Mar-2023 14:48:02 Asia/Kolkata] PHP Notice:  Undefined variable: file_name1 in /home/aapkaesh/public_html/user/myprofile.php on line 44
+[02-Mar-2023 14:48:02 Asia/Kolkata] PHP Notice:  Undefined variable: cat_id1 in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[02-Mar-2023 14:48:02 Asia/Kolkata] PHP Notice:  Undefined variable: shop_name in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[02-Mar-2023 14:48:02 Asia/Kolkata] PHP Notice:  Undefined variable: mobileno in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[02-Mar-2023 14:48:02 Asia/Kolkata] PHP Notice:  Undefined variable: shop_address in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[02-Mar-2023 14:48:02 Asia/Kolkata] PHP Notice:  Undefined variable: pincode in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[02-Mar-2023 14:48:02 Asia/Kolkata] PHP Notice:  Undefined variable: file_name1 in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[02-Mar-2023 14:48:02 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[02-Mar-2023 15:30:42 Asia/Kolkata] PHP Notice:  Undefined variable: errors in /home/aapkaesh/public_html/user/myprofile.php on line 43
+[02-Mar-2023 15:30:42 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/aapkaesh/public_html/user/myprofile.php on line 43
+[02-Mar-2023 15:30:42 Asia/Kolkata] PHP Notice:  Undefined variable: file_tmp1 in /home/aapkaesh/public_html/user/myprofile.php on line 44
+[02-Mar-2023 15:30:42 Asia/Kolkata] PHP Notice:  Undefined variable: file_name1 in /home/aapkaesh/public_html/user/myprofile.php on line 44
+[02-Mar-2023 15:30:42 Asia/Kolkata] PHP Notice:  Undefined variable: cat_id1 in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[02-Mar-2023 15:30:42 Asia/Kolkata] PHP Notice:  Undefined variable: shop_name in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[02-Mar-2023 15:30:42 Asia/Kolkata] PHP Notice:  Undefined variable: mobileno in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[02-Mar-2023 15:30:42 Asia/Kolkata] PHP Notice:  Undefined variable: shop_address in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[02-Mar-2023 15:30:42 Asia/Kolkata] PHP Notice:  Undefined variable: pincode in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[02-Mar-2023 15:30:42 Asia/Kolkata] PHP Notice:  Undefined variable: file_name1 in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[02-Mar-2023 15:30:42 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[02-Mar-2023 15:45:44 Asia/Kolkata] PHP Notice:  Undefined variable: errors in /home/aapkaesh/public_html/user/myprofile.php on line 43
+[02-Mar-2023 15:45:44 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/aapkaesh/public_html/user/myprofile.php on line 43
+[02-Mar-2023 15:45:44 Asia/Kolkata] PHP Notice:  Undefined variable: file_tmp1 in /home/aapkaesh/public_html/user/myprofile.php on line 44
+[02-Mar-2023 15:45:44 Asia/Kolkata] PHP Notice:  Undefined variable: file_name1 in /home/aapkaesh/public_html/user/myprofile.php on line 44
+[02-Mar-2023 15:45:44 Asia/Kolkata] PHP Notice:  Undefined variable: cat_id1 in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[02-Mar-2023 15:45:44 Asia/Kolkata] PHP Notice:  Undefined variable: shop_name in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[02-Mar-2023 15:45:44 Asia/Kolkata] PHP Notice:  Undefined variable: mobileno in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[02-Mar-2023 15:45:44 Asia/Kolkata] PHP Notice:  Undefined variable: shop_address in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[02-Mar-2023 15:45:44 Asia/Kolkata] PHP Notice:  Undefined variable: pincode in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[02-Mar-2023 15:45:44 Asia/Kolkata] PHP Notice:  Undefined variable: file_name1 in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[02-Mar-2023 15:45:44 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[02-Mar-2023 15:46:09 Asia/Kolkata] PHP Notice:  Undefined offset: 3 in /home/aapkaesh/public_html/user/order_details.php on line 145
+[02-Mar-2023 15:46:09 Asia/Kolkata] PHP Notice:  Undefined offset: 3 in /home/aapkaesh/public_html/user/order_details.php on line 146
+[02-Mar-2023 21:09:56 Asia/Kolkata] PHP Notice:  Undefined variable: errors in /home/aapkaesh/public_html/user/myprofile.php on line 43
+[02-Mar-2023 21:09:56 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/aapkaesh/public_html/user/myprofile.php on line 43
+[02-Mar-2023 21:09:56 Asia/Kolkata] PHP Notice:  Undefined variable: file_tmp1 in /home/aapkaesh/public_html/user/myprofile.php on line 44
+[02-Mar-2023 21:09:56 Asia/Kolkata] PHP Notice:  Undefined variable: file_name1 in /home/aapkaesh/public_html/user/myprofile.php on line 44
+[02-Mar-2023 21:09:56 Asia/Kolkata] PHP Notice:  Undefined variable: cat_id1 in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[02-Mar-2023 21:09:56 Asia/Kolkata] PHP Notice:  Undefined variable: shop_name in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[02-Mar-2023 21:09:56 Asia/Kolkata] PHP Notice:  Undefined variable: mobileno in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[02-Mar-2023 21:09:56 Asia/Kolkata] PHP Notice:  Undefined variable: shop_address in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[02-Mar-2023 21:09:56 Asia/Kolkata] PHP Notice:  Undefined variable: pincode in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[02-Mar-2023 21:09:56 Asia/Kolkata] PHP Notice:  Undefined variable: file_name1 in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[02-Mar-2023 21:09:56 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[02-Mar-2023 21:11:01 Asia/Kolkata] PHP Notice:  Undefined variable: errors in /home/aapkaesh/public_html/user/myprofile.php on line 43
+[02-Mar-2023 21:11:01 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/aapkaesh/public_html/user/myprofile.php on line 43
+[02-Mar-2023 21:11:01 Asia/Kolkata] PHP Notice:  Undefined variable: file_tmp1 in /home/aapkaesh/public_html/user/myprofile.php on line 44
+[02-Mar-2023 21:11:01 Asia/Kolkata] PHP Notice:  Undefined variable: file_name1 in /home/aapkaesh/public_html/user/myprofile.php on line 44
+[02-Mar-2023 21:11:01 Asia/Kolkata] PHP Notice:  Undefined variable: cat_id1 in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[02-Mar-2023 21:11:01 Asia/Kolkata] PHP Notice:  Undefined variable: shop_name in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[02-Mar-2023 21:11:01 Asia/Kolkata] PHP Notice:  Undefined variable: mobileno in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[02-Mar-2023 21:11:01 Asia/Kolkata] PHP Notice:  Undefined variable: shop_address in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[02-Mar-2023 21:11:01 Asia/Kolkata] PHP Notice:  Undefined variable: pincode in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[02-Mar-2023 21:11:01 Asia/Kolkata] PHP Notice:  Undefined variable: file_name1 in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[02-Mar-2023 21:11:01 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[02-Mar-2023 21:12:37 Asia/Kolkata] PHP Notice:  Undefined offset: 3 in /home/aapkaesh/public_html/user/order_details.php on line 145
+[02-Mar-2023 21:12:37 Asia/Kolkata] PHP Notice:  Undefined offset: 3 in /home/aapkaesh/public_html/user/order_details.php on line 146
+[06-Mar-2023 21:03:43 Asia/Kolkata] PHP Notice:  Undefined variable: errors in /home/aapkaesh/public_html/user/myprofile.php on line 43
+[06-Mar-2023 21:03:43 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/aapkaesh/public_html/user/myprofile.php on line 43
+[06-Mar-2023 21:03:43 Asia/Kolkata] PHP Notice:  Undefined variable: file_tmp1 in /home/aapkaesh/public_html/user/myprofile.php on line 44
+[06-Mar-2023 21:03:43 Asia/Kolkata] PHP Notice:  Undefined variable: file_name1 in /home/aapkaesh/public_html/user/myprofile.php on line 44
+[06-Mar-2023 21:03:43 Asia/Kolkata] PHP Notice:  Undefined variable: cat_id1 in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[06-Mar-2023 21:03:43 Asia/Kolkata] PHP Notice:  Undefined variable: shop_name in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[06-Mar-2023 21:03:43 Asia/Kolkata] PHP Notice:  Undefined variable: mobileno in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[06-Mar-2023 21:03:43 Asia/Kolkata] PHP Notice:  Undefined variable: shop_address in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[06-Mar-2023 21:03:43 Asia/Kolkata] PHP Notice:  Undefined variable: pincode in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[06-Mar-2023 21:03:43 Asia/Kolkata] PHP Notice:  Undefined variable: file_name1 in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[06-Mar-2023 21:03:43 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[07-Mar-2023 22:09:35 Asia/Kolkata] PHP Notice:  Undefined index: user_name in /home/aapkaesh/public_html/user/include/__header.php on line 17
+[09-Mar-2023 17:36:03 Asia/Kolkata] PHP Notice:  Undefined variable: errors in /home/aapkaesh/public_html/user/myprofile.php on line 43
+[09-Mar-2023 17:36:03 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/aapkaesh/public_html/user/myprofile.php on line 43
+[09-Mar-2023 17:36:03 Asia/Kolkata] PHP Notice:  Undefined variable: file_tmp1 in /home/aapkaesh/public_html/user/myprofile.php on line 44
+[09-Mar-2023 17:36:03 Asia/Kolkata] PHP Notice:  Undefined variable: file_name1 in /home/aapkaesh/public_html/user/myprofile.php on line 44
+[09-Mar-2023 17:36:03 Asia/Kolkata] PHP Notice:  Undefined variable: cat_id1 in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[09-Mar-2023 17:36:03 Asia/Kolkata] PHP Notice:  Undefined variable: shop_name in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[09-Mar-2023 17:36:03 Asia/Kolkata] PHP Notice:  Undefined variable: mobileno in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[09-Mar-2023 17:36:03 Asia/Kolkata] PHP Notice:  Undefined variable: shop_address in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[09-Mar-2023 17:36:03 Asia/Kolkata] PHP Notice:  Undefined variable: pincode in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[09-Mar-2023 17:36:03 Asia/Kolkata] PHP Notice:  Undefined variable: file_name1 in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[09-Mar-2023 17:36:03 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[09-Mar-2023 17:36:57 Asia/Kolkata] PHP Notice:  Undefined variable: errors in /home/aapkaesh/public_html/user/myprofile.php on line 43
+[09-Mar-2023 17:36:57 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/aapkaesh/public_html/user/myprofile.php on line 43
+[09-Mar-2023 17:36:57 Asia/Kolkata] PHP Notice:  Undefined variable: file_tmp1 in /home/aapkaesh/public_html/user/myprofile.php on line 44
+[09-Mar-2023 17:36:57 Asia/Kolkata] PHP Notice:  Undefined variable: file_name1 in /home/aapkaesh/public_html/user/myprofile.php on line 44
+[09-Mar-2023 17:36:57 Asia/Kolkata] PHP Notice:  Undefined variable: cat_id1 in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[09-Mar-2023 17:36:57 Asia/Kolkata] PHP Notice:  Undefined variable: shop_name in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[09-Mar-2023 17:36:57 Asia/Kolkata] PHP Notice:  Undefined variable: mobileno in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[09-Mar-2023 17:36:57 Asia/Kolkata] PHP Notice:  Undefined variable: shop_address in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[09-Mar-2023 17:36:57 Asia/Kolkata] PHP Notice:  Undefined variable: pincode in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[09-Mar-2023 17:36:57 Asia/Kolkata] PHP Notice:  Undefined variable: file_name1 in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[09-Mar-2023 17:36:57 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[09-Mar-2023 17:39:51 Asia/Kolkata] PHP Notice:  Undefined variable: errors in /home/aapkaesh/public_html/user/myprofile.php on line 43
+[09-Mar-2023 17:39:51 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/aapkaesh/public_html/user/myprofile.php on line 43
+[09-Mar-2023 17:39:51 Asia/Kolkata] PHP Notice:  Undefined variable: file_tmp1 in /home/aapkaesh/public_html/user/myprofile.php on line 44
+[09-Mar-2023 17:39:51 Asia/Kolkata] PHP Notice:  Undefined variable: file_name1 in /home/aapkaesh/public_html/user/myprofile.php on line 44
+[09-Mar-2023 17:39:51 Asia/Kolkata] PHP Notice:  Undefined variable: cat_id1 in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[09-Mar-2023 17:39:51 Asia/Kolkata] PHP Notice:  Undefined variable: shop_name in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[09-Mar-2023 17:39:51 Asia/Kolkata] PHP Notice:  Undefined variable: mobileno in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[09-Mar-2023 17:39:51 Asia/Kolkata] PHP Notice:  Undefined variable: shop_address in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[09-Mar-2023 17:39:51 Asia/Kolkata] PHP Notice:  Undefined variable: pincode in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[09-Mar-2023 17:39:51 Asia/Kolkata] PHP Notice:  Undefined variable: file_name1 in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[09-Mar-2023 17:39:51 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[10-Mar-2023 10:19:59 Asia/Kolkata] PHP Notice:  Undefined variable: errors in /home/aapkaesh/public_html/user/myprofile.php on line 43
+[10-Mar-2023 10:19:59 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/aapkaesh/public_html/user/myprofile.php on line 43
+[10-Mar-2023 10:19:59 Asia/Kolkata] PHP Notice:  Undefined variable: file_tmp1 in /home/aapkaesh/public_html/user/myprofile.php on line 44
+[10-Mar-2023 10:19:59 Asia/Kolkata] PHP Notice:  Undefined variable: file_name1 in /home/aapkaesh/public_html/user/myprofile.php on line 44
+[10-Mar-2023 10:19:59 Asia/Kolkata] PHP Notice:  Undefined variable: cat_id1 in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[10-Mar-2023 10:19:59 Asia/Kolkata] PHP Notice:  Undefined variable: shop_name in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[10-Mar-2023 10:19:59 Asia/Kolkata] PHP Notice:  Undefined variable: mobileno in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[10-Mar-2023 10:19:59 Asia/Kolkata] PHP Notice:  Undefined variable: shop_address in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[10-Mar-2023 10:19:59 Asia/Kolkata] PHP Notice:  Undefined variable: pincode in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[10-Mar-2023 10:19:59 Asia/Kolkata] PHP Notice:  Undefined variable: file_name1 in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[10-Mar-2023 10:19:59 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[10-Mar-2023 10:38:00 Asia/Kolkata] PHP Notice:  Undefined variable: errors in /home/aapkaesh/public_html/user/myprofile.php on line 43
+[10-Mar-2023 10:38:00 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/aapkaesh/public_html/user/myprofile.php on line 43
+[10-Mar-2023 10:38:00 Asia/Kolkata] PHP Notice:  Undefined variable: file_tmp1 in /home/aapkaesh/public_html/user/myprofile.php on line 44
+[10-Mar-2023 10:38:00 Asia/Kolkata] PHP Notice:  Undefined variable: file_name1 in /home/aapkaesh/public_html/user/myprofile.php on line 44
+[10-Mar-2023 10:38:00 Asia/Kolkata] PHP Notice:  Undefined variable: cat_id1 in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[10-Mar-2023 10:38:00 Asia/Kolkata] PHP Notice:  Undefined variable: shop_name in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[10-Mar-2023 10:38:00 Asia/Kolkata] PHP Notice:  Undefined variable: mobileno in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[10-Mar-2023 10:38:00 Asia/Kolkata] PHP Notice:  Undefined variable: shop_address in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[10-Mar-2023 10:38:00 Asia/Kolkata] PHP Notice:  Undefined variable: pincode in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[10-Mar-2023 10:38:00 Asia/Kolkata] PHP Notice:  Undefined variable: file_name1 in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[10-Mar-2023 10:38:00 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[10-Mar-2023 10:38:45 Asia/Kolkata] PHP Notice:  Undefined variable: errors in /home/aapkaesh/public_html/user/myprofile.php on line 43
+[10-Mar-2023 10:38:45 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/aapkaesh/public_html/user/myprofile.php on line 43
+[10-Mar-2023 10:38:45 Asia/Kolkata] PHP Notice:  Undefined variable: file_tmp1 in /home/aapkaesh/public_html/user/myprofile.php on line 44
+[10-Mar-2023 10:38:45 Asia/Kolkata] PHP Notice:  Undefined variable: file_name1 in /home/aapkaesh/public_html/user/myprofile.php on line 44
+[10-Mar-2023 10:38:45 Asia/Kolkata] PHP Notice:  Undefined variable: cat_id1 in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[10-Mar-2023 10:38:45 Asia/Kolkata] PHP Notice:  Undefined variable: shop_name in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[10-Mar-2023 10:38:45 Asia/Kolkata] PHP Notice:  Undefined variable: mobileno in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[10-Mar-2023 10:38:45 Asia/Kolkata] PHP Notice:  Undefined variable: shop_address in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[10-Mar-2023 10:38:45 Asia/Kolkata] PHP Notice:  Undefined variable: pincode in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[10-Mar-2023 10:38:45 Asia/Kolkata] PHP Notice:  Undefined variable: file_name1 in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[10-Mar-2023 10:38:45 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[10-Mar-2023 10:46:43 Asia/Kolkata] PHP Notice:  Undefined variable: errors in /home/aapkaesh/public_html/user/myprofile.php on line 43
+[10-Mar-2023 10:46:43 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/aapkaesh/public_html/user/myprofile.php on line 43
+[10-Mar-2023 10:46:43 Asia/Kolkata] PHP Notice:  Undefined variable: file_tmp1 in /home/aapkaesh/public_html/user/myprofile.php on line 44
+[10-Mar-2023 10:46:43 Asia/Kolkata] PHP Notice:  Undefined variable: file_name1 in /home/aapkaesh/public_html/user/myprofile.php on line 44
+[10-Mar-2023 10:46:43 Asia/Kolkata] PHP Notice:  Undefined variable: cat_id1 in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[10-Mar-2023 10:46:43 Asia/Kolkata] PHP Notice:  Undefined variable: shop_name in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[10-Mar-2023 10:46:43 Asia/Kolkata] PHP Notice:  Undefined variable: mobileno in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[10-Mar-2023 10:46:43 Asia/Kolkata] PHP Notice:  Undefined variable: shop_address in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[10-Mar-2023 10:46:43 Asia/Kolkata] PHP Notice:  Undefined variable: pincode in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[10-Mar-2023 10:46:43 Asia/Kolkata] PHP Notice:  Undefined variable: file_name1 in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[10-Mar-2023 10:46:43 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[10-Mar-2023 10:46:52 Asia/Kolkata] PHP Notice:  Undefined variable: errors in /home/aapkaesh/public_html/user/myprofile.php on line 43
+[10-Mar-2023 10:46:52 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/aapkaesh/public_html/user/myprofile.php on line 43
+[10-Mar-2023 10:46:52 Asia/Kolkata] PHP Notice:  Undefined variable: file_tmp1 in /home/aapkaesh/public_html/user/myprofile.php on line 44
+[10-Mar-2023 10:46:52 Asia/Kolkata] PHP Notice:  Undefined variable: file_name1 in /home/aapkaesh/public_html/user/myprofile.php on line 44
+[10-Mar-2023 10:46:52 Asia/Kolkata] PHP Notice:  Undefined variable: cat_id1 in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[10-Mar-2023 10:46:52 Asia/Kolkata] PHP Notice:  Undefined variable: shop_name in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[10-Mar-2023 10:46:52 Asia/Kolkata] PHP Notice:  Undefined variable: mobileno in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[10-Mar-2023 10:46:52 Asia/Kolkata] PHP Notice:  Undefined variable: shop_address in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[10-Mar-2023 10:46:52 Asia/Kolkata] PHP Notice:  Undefined variable: pincode in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[10-Mar-2023 10:46:52 Asia/Kolkata] PHP Notice:  Undefined variable: file_name1 in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[10-Mar-2023 10:46:52 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[10-Mar-2023 15:29:33 Asia/Kolkata] PHP Notice:  Undefined index: shop_id in /home/aapkaesh/public_html/user/orders.php on line 112
+[10-Mar-2023 15:29:33 Asia/Kolkata] PHP Notice:  Undefined index: shop_id in /home/aapkaesh/public_html/user/orders.php on line 112
+[10-Mar-2023 15:29:33 Asia/Kolkata] PHP Notice:  Undefined index: shop_id in /home/aapkaesh/public_html/user/orders.php on line 112
+[10-Mar-2023 15:29:33 Asia/Kolkata] PHP Notice:  Undefined index: shop_id in /home/aapkaesh/public_html/user/orders.php on line 112
+[10-Mar-2023 15:29:33 Asia/Kolkata] PHP Notice:  Undefined index: shop_id in /home/aapkaesh/public_html/user/orders.php on line 112
+[10-Mar-2023 15:29:33 Asia/Kolkata] PHP Notice:  Undefined index: shop_id in /home/aapkaesh/public_html/user/orders.php on line 112
+[10-Mar-2023 15:29:33 Asia/Kolkata] PHP Notice:  Undefined index: shop_id in /home/aapkaesh/public_html/user/orders.php on line 112
+[11-Mar-2023 15:08:42 Asia/Kolkata] PHP Notice:  Undefined variable: errors in /home/aapkaesh/public_html/user/myprofile.php on line 43
+[11-Mar-2023 15:08:42 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/aapkaesh/public_html/user/myprofile.php on line 43
+[11-Mar-2023 15:08:42 Asia/Kolkata] PHP Notice:  Undefined variable: file_tmp1 in /home/aapkaesh/public_html/user/myprofile.php on line 44
+[11-Mar-2023 15:08:42 Asia/Kolkata] PHP Notice:  Undefined variable: file_name1 in /home/aapkaesh/public_html/user/myprofile.php on line 44
+[11-Mar-2023 15:08:42 Asia/Kolkata] PHP Notice:  Undefined variable: cat_id1 in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[11-Mar-2023 15:08:42 Asia/Kolkata] PHP Notice:  Undefined variable: shop_name in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[11-Mar-2023 15:08:42 Asia/Kolkata] PHP Notice:  Undefined variable: mobileno in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[11-Mar-2023 15:08:42 Asia/Kolkata] PHP Notice:  Undefined variable: shop_address in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[11-Mar-2023 15:08:42 Asia/Kolkata] PHP Notice:  Undefined variable: pincode in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[11-Mar-2023 15:08:42 Asia/Kolkata] PHP Notice:  Undefined variable: file_name1 in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[11-Mar-2023 15:08:42 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[11-Mar-2023 15:10:00 Asia/Kolkata] PHP Notice:  Undefined offset: 3 in /home/aapkaesh/public_html/user/order_details.php on line 145
+[11-Mar-2023 15:10:00 Asia/Kolkata] PHP Notice:  Undefined offset: 3 in /home/aapkaesh/public_html/user/order_details.php on line 146
+[12-Mar-2023 11:15:18 Asia/Kolkata] PHP Notice:  Undefined variable: errors in /home/aapkaesh/public_html/user/myprofile.php on line 43
+[12-Mar-2023 11:15:18 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/aapkaesh/public_html/user/myprofile.php on line 43
+[12-Mar-2023 11:15:18 Asia/Kolkata] PHP Notice:  Undefined variable: file_tmp1 in /home/aapkaesh/public_html/user/myprofile.php on line 44
+[12-Mar-2023 11:15:18 Asia/Kolkata] PHP Notice:  Undefined variable: file_name1 in /home/aapkaesh/public_html/user/myprofile.php on line 44
+[12-Mar-2023 11:15:18 Asia/Kolkata] PHP Notice:  Undefined variable: cat_id1 in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[12-Mar-2023 11:15:18 Asia/Kolkata] PHP Notice:  Undefined variable: shop_name in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[12-Mar-2023 11:15:18 Asia/Kolkata] PHP Notice:  Undefined variable: mobileno in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[12-Mar-2023 11:15:18 Asia/Kolkata] PHP Notice:  Undefined variable: shop_address in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[12-Mar-2023 11:15:18 Asia/Kolkata] PHP Notice:  Undefined variable: pincode in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[12-Mar-2023 11:15:18 Asia/Kolkata] PHP Notice:  Undefined variable: file_name1 in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[12-Mar-2023 11:15:18 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/aapkaesh/public_html/user/myprofile.php on line 46
+[24-Mar-2023 11:14:41 Asia/Kolkata] PHP Warning:  include(include/__header5.php): failed to open stream: No such file or directory in /home/aapkaesh/public_html/user/orders.php on line 41
+[24-Mar-2023 11:14:41 Asia/Kolkata] PHP Warning:  include(): Failed opening 'include/__header5.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/aapkaesh/public_html/user/orders.php on line 41
+[24-Mar-2023 11:56:49 Asia/Kolkata] PHP Notice:  Undefined index: user_name in /home/aapkaesh/public_html/user/include/__header.php on line 17
+[24-Mar-2023 11:56:49 Asia/Kolkata] PHP Notice:  Undefined index: user_id in /home/aapkaesh/public_html/user/orders.php on line 96
+[07-Apr-2023 08:27:33 Asia/Kolkata] PHP Notice:  Undefined index: user_name in /home/aapkaesh/public_html/user/include/__header.php on line 17
+[07-Apr-2023 08:27:33 Asia/Kolkata] PHP Notice:  Undefined index: user_id in /home/aapkaesh/public_html/user/orders.php on line 96
+[07-Apr-2023 08:27:34 Asia/Kolkata] PHP Notice:  Undefined index: user_name in /home/aapkaesh/public_html/user/include/__header.php on line 17
+[07-Apr-2023 08:27:35 Asia/Kolkata] PHP Notice:  Undefined index: user_name in /home/aapkaesh/public_html/user/include/__header.php on line 17

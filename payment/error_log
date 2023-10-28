@@ -1,0 +1,150 @@
+[15-Jan-2023 09:13:55 UTC] PHP Notice:  Undefined index: name in /home/aapkaesh/public_html/payment/mojo.php on line 20
+[15-Jan-2023 09:13:55 UTC] PHP Notice:  Undefined index: email in /home/aapkaesh/public_html/payment/mojo.php on line 22
+[15-Jan-2023 09:13:55 UTC] PHP Notice:  Undefined index: mobile in /home/aapkaesh/public_html/payment/mojo.php on line 23
+[15-Jan-2023 09:13:55 UTC] PHP Notice:  Undefined index: amount in /home/aapkaesh/public_html/payment/mojo.php on line 24
+[15-Jan-2023 09:13:55 UTC] PHP Notice:  Undefined index: month in /home/aapkaesh/public_html/payment/mojo.php on line 25
+[15-Jan-2023 09:13:55 UTC] PHP Notice:  Undefined index: payment_request in /home/aapkaesh/public_html/payment/mojo.php on line 72
+[15-Jan-2023 09:13:55 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/aapkaesh/public_html/payment/mojo.php on line 72
+[15-Jan-2023 10:48:57 UTC] PHP Notice:  Undefined variable: nextDate in /home/aapkaesh/public_html/payment/success.php on line 64
+[15-Jan-2023 10:53:50 UTC] PHP Notice:  Undefined variable: nextDate in /home/aapkaesh/public_html/payment/success.php on line 64
+[15-Jan-2023 12:31:03 UTC] PHP Notice:  Undefined variable: nextDate in /home/aapkaesh/public_html/payment/success.php on line 64
+[15-Jan-2023 14:13:46 UTC] PHP Notice:  Undefined variable: nextDate in /home/aapkaesh/public_html/payment/success.php on line 64
+[15-Jan-2023 14:25:00 UTC] PHP Notice:  Undefined variable: nextDate in /home/aapkaesh/public_html/payment/success.php on line 64
+[15-Jan-2023 14:47:43 UTC] PHP Notice:  Undefined variable: nextDate in /home/aapkaesh/public_html/payment/success.php on line 64
+[15-Jan-2023 14:50:07 UTC] PHP Notice:  Undefined variable: nextDate in /home/aapkaesh/public_html/payment/success.php on line 64
+[16-Jan-2023 02:28:10 UTC] PHP Notice:  Undefined variable: nextDate in /home/aapkaesh/public_html/payment/success.php on line 64
+[16-Jan-2023 03:11:36 UTC] PHP Notice:  Undefined variable: nextDate in /home/aapkaesh/public_html/payment/success.php on line 64
+[16-Jan-2023 03:24:31 UTC] PHP Notice:  Undefined variable: nextDate in /home/aapkaesh/public_html/payment/success.php on line 64
+[16-Jan-2023 03:24:31 UTC] PHP Notice:  Undefined variable: date in /home/aapkaesh/public_html/payment/success.php on line 64
+[16-Jan-2023 04:02:25 UTC] PHP Warning:  include(includes/conn.php): failed to open stream: No such file or directory in /home/aapkaesh/public_html/payment/success.php on line 4
+[16-Jan-2023 04:02:25 UTC] PHP Warning:  include(): Failed opening 'includes/conn.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/aapkaesh/public_html/payment/success.php on line 4
+[16-Jan-2023 04:04:05 UTC] PHP Warning:  include(includes/conn.php): failed to open stream: No such file or directory in /home/aapkaesh/public_html/payment/success.php on line 4
+[16-Jan-2023 04:04:05 UTC] PHP Warning:  include(): Failed opening 'includes/conn.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/aapkaesh/public_html/payment/success.php on line 4
+[17-Jan-2023 08:07:19 UTC] PHP Notice:  Undefined index: payment_id in /home/aapkaesh/public_html/payment/success.php on line 4
+[17-Jan-2023 08:07:19 UTC] PHP Notice:  Undefined index: payment_request_id in /home/aapkaesh/public_html/payment/success.php on line 5
+[17-Jan-2023 08:07:21 UTC] PHP Notice:  Undefined index: payment_request in /home/aapkaesh/public_html/payment/success.php on line 35
+[17-Jan-2023 08:07:21 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/aapkaesh/public_html/payment/success.php on line 35
+[17-Jan-2023 08:07:21 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/aapkaesh/public_html/payment/success.php on line 35
+[17-Jan-2023 08:07:21 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/aapkaesh/public_html/payment/success.php on line 35
+[17-Jan-2023 08:07:21 UTC] PHP Notice:  Undefined index: payment_request in /home/aapkaesh/public_html/payment/success.php on line 36
+[17-Jan-2023 08:07:21 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/aapkaesh/public_html/payment/success.php on line 36
+[17-Jan-2023 08:07:21 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/aapkaesh/public_html/payment/success.php on line 36
+[17-Jan-2023 08:07:21 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/aapkaesh/public_html/payment/success.php on line 36
+[17-Jan-2023 08:07:21 UTC] PHP Notice:  Undefined index: payment_request in /home/aapkaesh/public_html/payment/success.php on line 37
+[17-Jan-2023 08:07:21 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/aapkaesh/public_html/payment/success.php on line 37
+[17-Jan-2023 08:07:21 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/aapkaesh/public_html/payment/success.php on line 37
+[17-Jan-2023 08:07:21 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/aapkaesh/public_html/payment/success.php on line 37
+[17-Jan-2023 08:07:21 UTC] PHP Notice:  Undefined index: payment_request in /home/aapkaesh/public_html/payment/success.php on line 38
+[17-Jan-2023 08:07:21 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/aapkaesh/public_html/payment/success.php on line 38
+[17-Jan-2023 08:07:21 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/aapkaesh/public_html/payment/success.php on line 38
+[17-Jan-2023 08:07:21 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/aapkaesh/public_html/payment/success.php on line 38
+[17-Jan-2023 08:07:21 UTC] PHP Notice:  Undefined index: payment_request in /home/aapkaesh/public_html/payment/success.php on line 39
+[17-Jan-2023 08:07:21 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/aapkaesh/public_html/payment/success.php on line 39
+[17-Jan-2023 08:07:21 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/aapkaesh/public_html/payment/success.php on line 39
+[17-Jan-2023 08:07:21 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/aapkaesh/public_html/payment/success.php on line 39
+[17-Jan-2023 08:07:21 UTC] PHP Notice:  Undefined index: payment_request in /home/aapkaesh/public_html/payment/success.php on line 40
+[17-Jan-2023 08:07:21 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/aapkaesh/public_html/payment/success.php on line 40
+[17-Jan-2023 08:07:21 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/aapkaesh/public_html/payment/success.php on line 40
+[17-Jan-2023 08:07:21 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/aapkaesh/public_html/payment/success.php on line 40
+[17-Jan-2023 08:39:27 UTC] PHP Notice:  Undefined index: payment_id in /home/aapkaesh/public_html/payment/success.php on line 4
+[17-Jan-2023 08:39:27 UTC] PHP Notice:  Undefined index: payment_request_id in /home/aapkaesh/public_html/payment/success.php on line 5
+[17-Jan-2023 08:39:27 UTC] PHP Notice:  Undefined index: payment_request in /home/aapkaesh/public_html/payment/success.php on line 35
+[17-Jan-2023 08:39:27 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/aapkaesh/public_html/payment/success.php on line 35
+[17-Jan-2023 08:39:27 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/aapkaesh/public_html/payment/success.php on line 35
+[17-Jan-2023 08:39:27 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/aapkaesh/public_html/payment/success.php on line 35
+[17-Jan-2023 08:39:27 UTC] PHP Notice:  Undefined index: payment_request in /home/aapkaesh/public_html/payment/success.php on line 36
+[17-Jan-2023 08:39:27 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/aapkaesh/public_html/payment/success.php on line 36
+[17-Jan-2023 08:39:27 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/aapkaesh/public_html/payment/success.php on line 36
+[17-Jan-2023 08:39:27 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/aapkaesh/public_html/payment/success.php on line 36
+[17-Jan-2023 08:39:27 UTC] PHP Notice:  Undefined index: payment_request in /home/aapkaesh/public_html/payment/success.php on line 37
+[17-Jan-2023 08:39:27 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/aapkaesh/public_html/payment/success.php on line 37
+[17-Jan-2023 08:39:27 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/aapkaesh/public_html/payment/success.php on line 37
+[17-Jan-2023 08:39:27 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/aapkaesh/public_html/payment/success.php on line 37
+[17-Jan-2023 08:39:27 UTC] PHP Notice:  Undefined index: payment_request in /home/aapkaesh/public_html/payment/success.php on line 38
+[17-Jan-2023 08:39:27 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/aapkaesh/public_html/payment/success.php on line 38
+[17-Jan-2023 08:39:27 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/aapkaesh/public_html/payment/success.php on line 38
+[17-Jan-2023 08:39:27 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/aapkaesh/public_html/payment/success.php on line 38
+[17-Jan-2023 08:39:27 UTC] PHP Notice:  Undefined index: payment_request in /home/aapkaesh/public_html/payment/success.php on line 39
+[17-Jan-2023 08:39:27 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/aapkaesh/public_html/payment/success.php on line 39
+[17-Jan-2023 08:39:27 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/aapkaesh/public_html/payment/success.php on line 39
+[17-Jan-2023 08:39:27 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/aapkaesh/public_html/payment/success.php on line 39
+[17-Jan-2023 08:39:27 UTC] PHP Notice:  Undefined index: payment_request in /home/aapkaesh/public_html/payment/success.php on line 40
+[17-Jan-2023 08:39:27 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/aapkaesh/public_html/payment/success.php on line 40
+[17-Jan-2023 08:39:27 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/aapkaesh/public_html/payment/success.php on line 40
+[17-Jan-2023 08:39:27 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/aapkaesh/public_html/payment/success.php on line 40
+[20-Jan-2023 08:59:54 UTC] PHP Notice:  Undefined index: payment_request in /home/aapkaesh/public_html/payment/mojo.php on line 72
+[20-Jan-2023 08:59:54 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/aapkaesh/public_html/payment/mojo.php on line 72
+[31-Jan-2023 16:45:07 UTC] PHP Notice:  Undefined index: payment_id in /home/aapkaesh/public_html/payment/success.php on line 4
+[31-Jan-2023 16:45:07 UTC] PHP Notice:  Undefined index: payment_request_id in /home/aapkaesh/public_html/payment/success.php on line 5
+[31-Jan-2023 16:45:08 UTC] PHP Notice:  Undefined index: payment_request in /home/aapkaesh/public_html/payment/success.php on line 35
+[31-Jan-2023 16:45:08 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/aapkaesh/public_html/payment/success.php on line 35
+[31-Jan-2023 16:45:08 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/aapkaesh/public_html/payment/success.php on line 35
+[31-Jan-2023 16:45:08 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/aapkaesh/public_html/payment/success.php on line 35
+[31-Jan-2023 16:45:08 UTC] PHP Notice:  Undefined index: payment_request in /home/aapkaesh/public_html/payment/success.php on line 36
+[31-Jan-2023 16:45:08 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/aapkaesh/public_html/payment/success.php on line 36
+[31-Jan-2023 16:45:08 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/aapkaesh/public_html/payment/success.php on line 36
+[31-Jan-2023 16:45:08 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/aapkaesh/public_html/payment/success.php on line 36
+[31-Jan-2023 16:45:08 UTC] PHP Notice:  Undefined index: payment_request in /home/aapkaesh/public_html/payment/success.php on line 37
+[31-Jan-2023 16:45:08 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/aapkaesh/public_html/payment/success.php on line 37
+[31-Jan-2023 16:45:08 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/aapkaesh/public_html/payment/success.php on line 37
+[31-Jan-2023 16:45:08 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/aapkaesh/public_html/payment/success.php on line 37
+[31-Jan-2023 16:45:08 UTC] PHP Notice:  Undefined index: payment_request in /home/aapkaesh/public_html/payment/success.php on line 38
+[31-Jan-2023 16:45:08 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/aapkaesh/public_html/payment/success.php on line 38
+[31-Jan-2023 16:45:08 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/aapkaesh/public_html/payment/success.php on line 38
+[31-Jan-2023 16:45:08 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/aapkaesh/public_html/payment/success.php on line 38
+[31-Jan-2023 16:45:08 UTC] PHP Notice:  Undefined index: payment_request in /home/aapkaesh/public_html/payment/success.php on line 39
+[31-Jan-2023 16:45:08 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/aapkaesh/public_html/payment/success.php on line 39
+[31-Jan-2023 16:45:08 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/aapkaesh/public_html/payment/success.php on line 39
+[31-Jan-2023 16:45:08 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/aapkaesh/public_html/payment/success.php on line 39
+[31-Jan-2023 16:45:08 UTC] PHP Notice:  Undefined index: payment_request in /home/aapkaesh/public_html/payment/success.php on line 40
+[31-Jan-2023 16:45:08 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/aapkaesh/public_html/payment/success.php on line 40
+[31-Jan-2023 16:45:08 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/aapkaesh/public_html/payment/success.php on line 40
+[31-Jan-2023 16:45:08 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/aapkaesh/public_html/payment/success.php on line 40
+[01-Apr-2023 02:45:55 UTC] PHP Notice:  Undefined index: month in /home/aapkaesh/public_html/payment/success.php on line 48
+[01-Apr-2023 02:45:55 UTC] PHP Notice:  Undefined index: shop_id in /home/aapkaesh/public_html/payment/success.php on line 62
+[01-Apr-2023 02:45:55 UTC] PHP Notice:  Undefined variable: nextDate in /home/aapkaesh/public_html/payment/success.php on line 64
+[01-Apr-2023 02:45:55 UTC] PHP Notice:  Undefined index: shop_id in /home/aapkaesh/public_html/payment/success.php on line 64
+[01-Apr-2023 02:45:55 UTC] PHP Notice:  Undefined index: shop_id in /home/aapkaesh/public_html/payment/success.php on line 66
+[01-Apr-2023 02:46:50 UTC] PHP Notice:  Undefined index: month in /home/aapkaesh/public_html/payment/success.php on line 48
+[01-Apr-2023 02:46:50 UTC] PHP Notice:  Undefined index: shop_id in /home/aapkaesh/public_html/payment/success.php on line 62
+[01-Apr-2023 02:46:50 UTC] PHP Notice:  Undefined variable: nextDate in /home/aapkaesh/public_html/payment/success.php on line 64
+[01-Apr-2023 02:46:50 UTC] PHP Notice:  Undefined index: shop_id in /home/aapkaesh/public_html/payment/success.php on line 64
+[01-Apr-2023 08:25:47 UTC] PHP Notice:  Undefined variable: days in /home/aapkaesh/public_html/payment/success.php on line 52
+[01-Apr-2023 08:25:47 UTC] PHP Notice:  Undefined variable: days in /home/aapkaesh/public_html/payment/success.php on line 54
+[01-Apr-2023 08:25:47 UTC] PHP Notice:  Undefined variable: days in /home/aapkaesh/public_html/payment/success.php on line 56
+[01-Apr-2023 08:25:47 UTC] PHP Notice:  Undefined variable: days in /home/aapkaesh/public_html/payment/success.php on line 58
+[01-Apr-2023 08:25:47 UTC] PHP Notice:  Undefined variable: r1 in /home/aapkaesh/public_html/payment/success.php on line 63
+[01-Apr-2023 08:25:47 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/aapkaesh/public_html/payment/success.php on line 63
+[01-Apr-2023 08:25:47 UTC] PHP Notice:  Undefined variable: nextDate in /home/aapkaesh/public_html/payment/success.php on line 82
+[01-Apr-2023 14:27:16 Asia/Kolkata] PHP Notice:  Undefined variable: days in /home/aapkaesh/public_html/payment/success.php on line 55
+[01-Apr-2023 14:27:16 Asia/Kolkata] PHP Notice:  Undefined variable: days in /home/aapkaesh/public_html/payment/success.php on line 59
+[01-Apr-2023 14:27:16 Asia/Kolkata] PHP Notice:  Undefined variable: days in /home/aapkaesh/public_html/payment/success.php on line 63
+[01-Apr-2023 14:27:16 Asia/Kolkata] PHP Notice:  Undefined variable: days in /home/aapkaesh/public_html/payment/success.php on line 67
+[01-Apr-2023 14:27:16 Asia/Kolkata] PHP Notice:  Undefined variable: nextDate in /home/aapkaesh/public_html/payment/success.php on line 73
+[01-Apr-2023 14:11:26 UTC] PHP Notice:  Undefined index: mac in /home/aapkaesh/public_html/payment/webhook.php on line 4
+[01-Apr-2023 19:43:05 Asia/Kolkata] PHP Notice:  Undefined index: payment_id in /home/aapkaesh/public_html/payment/success.php on line 7
+[01-Apr-2023 19:43:05 Asia/Kolkata] PHP Notice:  Undefined index: payment_request_id in /home/aapkaesh/public_html/payment/success.php on line 8
+[01-Apr-2023 19:43:06 Asia/Kolkata] PHP Notice:  Undefined index: payment_request in /home/aapkaesh/public_html/payment/success.php on line 38
+[01-Apr-2023 19:43:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/aapkaesh/public_html/payment/success.php on line 38
+[01-Apr-2023 19:43:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/aapkaesh/public_html/payment/success.php on line 38
+[01-Apr-2023 19:43:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/aapkaesh/public_html/payment/success.php on line 38
+[01-Apr-2023 19:43:06 Asia/Kolkata] PHP Notice:  Undefined index: payment_request in /home/aapkaesh/public_html/payment/success.php on line 39
+[01-Apr-2023 19:43:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/aapkaesh/public_html/payment/success.php on line 39
+[01-Apr-2023 19:43:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/aapkaesh/public_html/payment/success.php on line 39
+[01-Apr-2023 19:43:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/aapkaesh/public_html/payment/success.php on line 39
+[01-Apr-2023 19:43:06 Asia/Kolkata] PHP Notice:  Undefined index: payment_request in /home/aapkaesh/public_html/payment/success.php on line 40
+[01-Apr-2023 19:43:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/aapkaesh/public_html/payment/success.php on line 40
+[01-Apr-2023 19:43:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/aapkaesh/public_html/payment/success.php on line 40
+[01-Apr-2023 19:43:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/aapkaesh/public_html/payment/success.php on line 40
+[01-Apr-2023 19:43:06 Asia/Kolkata] PHP Notice:  Undefined index: payment_request in /home/aapkaesh/public_html/payment/success.php on line 41
+[01-Apr-2023 19:43:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/aapkaesh/public_html/payment/success.php on line 41
+[01-Apr-2023 19:43:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/aapkaesh/public_html/payment/success.php on line 41
+[01-Apr-2023 19:43:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/aapkaesh/public_html/payment/success.php on line 41
+[01-Apr-2023 19:43:06 Asia/Kolkata] PHP Notice:  Undefined index: payment_request in /home/aapkaesh/public_html/payment/success.php on line 42
+[01-Apr-2023 19:43:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/aapkaesh/public_html/payment/success.php on line 42
+[01-Apr-2023 19:43:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/aapkaesh/public_html/payment/success.php on line 42
+[01-Apr-2023 19:43:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/aapkaesh/public_html/payment/success.php on line 42
+[01-Apr-2023 19:43:06 Asia/Kolkata] PHP Notice:  Undefined index: payment_request in /home/aapkaesh/public_html/payment/success.php on line 43
+[01-Apr-2023 19:43:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/aapkaesh/public_html/payment/success.php on line 43
+[01-Apr-2023 19:43:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/aapkaesh/public_html/payment/success.php on line 43
+[01-Apr-2023 19:43:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/aapkaesh/public_html/payment/success.php on line 43
