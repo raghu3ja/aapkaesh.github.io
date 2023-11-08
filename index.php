@@ -30,15 +30,15 @@ include ("includes/conn.php");
 					
 					<a class="navbar-brand" href="index.php"><img src="images/logo.png" alt="logo"></a>
 					<?php
-					  //if(isset($_SESSION['user_name']))
+					  if(isset($_SESSION['user_name']))
 				     {
 					    ?>
-					  <!--<ul class="account-section">
+					  <ul class="account-section">
 						<li class="dropdown"><a href="user/orders.php"><i class="fa fa-user"></i> <?php //echo $_SESSION['user_name']; ?></a></li>
 					  </ul>
 					<?php
 					  }
-					  //else 
+					  else 
 					  {
 					?>
 					<ul class="account-section">
@@ -47,7 +47,7 @@ include ("includes/conn.php");
 					
 				<?php 
 					  }
-					  //	if(isset($_SESSION['shop_name']))
+					  	if(isset($_SESSION['shop_name']))
 					  { 
 					  
 					?>
@@ -56,12 +56,12 @@ include ("includes/conn.php");
 					  </ul>
 					<?php
 					  }
-				     //else
+				     else
 					 {
 					?>
 					 <ul class="account-section">
 						<li class="dropdown"><a data-toggle="modal" data-target="#s_login"><i class="fa fa-user"></i> Login / Register as Shop</a></li>
-					</ul>-->
+					</ul>
                    <?php 
                     } 
                     ?>
