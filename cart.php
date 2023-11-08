@@ -28,9 +28,7 @@ if(isset($_POST['submit']))
 	$landmark=$_POST['landmark'];
 	$address=$_POST['address'];
 	$shopname=$_POST['shopname'];
- $sql="INSERT INTO `cart`( `shop_id`,user_id, `product_id`, `product_name`, `price`, `qty`, `total_price`, `name`, `tel`, `email`, `city`, `district`, `landmark`, `address`,`cdate`) VALUES ('".$_POST['shopid']."','".$user_id."','".$productid."','".$productname."','".$productprice."',
-			'".$productqty."','".$totalprice."','".$name."','".$tel."','".$email."','".$city."',
-			'".$district."','".$landmark."','".$address."','".$date."')";
+ $sql="INSERT INTO `cart`( `shop_id`,user_id, `product_id`, `product_name`, `price`, `qty`, `total_price`, `name`, `tel`, `email`, `city`, `district`, `landmark`, `address`,`cdate`) VALUES ('".$_POST['shopid']."','".$user_id."','".$productid."','".$productname."','".$productprice."','".$productqty."','".$totalprice."','".$name."','".$tel."','".$email."','".$city."','".$district."','".$landmark."','".$address."','".$date."')";
 			
 		
 	
